@@ -17,12 +17,11 @@ This repository contains code and experiments for the paper titled: 'SPARse-data
 ├── simclr_multi_branch_gnn
 ├── simclr_multi_branch_self_attention
 ```
-```
 
 ## Contents
 
 - **autoencoder_sampling/**  
-  Autoencoder comparison - with hard negative sampling method.
+  Autoencoder Comparison - with Hard Negative Sampling Method.
 
 - **downstream_model_lstm_no_decoder/**  
   LSTM-based downstream model for forecasting.
@@ -79,11 +78,11 @@ This repository contains code and experiments for the paper titled: 'SPARse-data
 
 Each model in the directories has corresponding files for training and testing. The main files of note are:
 
-- main.py - Main entry file for training and evaluating the model.
-- downstream_seed.py - File to evaluate forecasting with strides of 5 and 10.
-- model.py / model_decoder.py - Model code.
-- train.py / train_decoder.py - Training code.
-- dataset.py - Dataset code.
+- main.py - **Main entry file for training and evaluating the model.**
+- downstream_seed.py - **File to evaluate forecasting with strides of 5 and 10.**
+- model.py / model_decoder.py - **Model code.**
+- train.py / train_decoder.py - **Training code.**
+- dataset.py - **Dataset code.**
 
 Each model has several notebooks that provide results in the paper:
 
@@ -94,4 +93,4 @@ Each model has several notebooks that provide results in the paper:
 - visual_window_next_t.ipynb - **Plots trajectories of context windows with the next step**
 
 ---
-If you have any questions, please feel free to reach out to me.
+If you have any questions, please don't hesitate to contact me.
