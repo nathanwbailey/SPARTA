@@ -1,0 +1,3500 @@
+Epoch: 0, Alpha: 1.00
+  Total Train Loss:        12.17
+    Contrastive Train Loss: 5.26
+    Contrastive Recon Train Loss: 6.90
+    Total Contrastive Train Loss: 12.17
+    Recon Train Loss: 3.45
+    Cycle Train Loss:       0.0028768067
+  Total Valid Loss:        11.68
+    Contrastive Valid Loss: 7.37
+    Contrastive Recon Valid Loss: 4.31
+    Total Contrastive Valid Loss: 11.68
+    Recon Valid Loss: 2.17
+    Cycle Valid Loss:       0.0038650264
+Learning Rate: 0.0001
+Epoch: 1, Alpha: 0.99
+  Total Train Loss:        9.73
+    Contrastive Train Loss: 5.25
+    Contrastive Recon Train Loss: 4.56
+    Total Contrastive Train Loss: 9.81
+    Recon Train Loss: 2.29
+    Cycle Train Loss:       0.0029684320
+  Total Valid Loss:        11.10
+    Contrastive Valid Loss: 7.36
+    Contrastive Recon Valid Loss: 3.83
+    Total Contrastive Valid Loss: 11.19
+    Recon Valid Loss: 1.94
+    Cycle Valid Loss:       0.0041969779
+Learning Rate: 0.0001
+Epoch: 2, Alpha: 0.98
+  Total Train Loss:        9.25
+    Contrastive Train Loss: 5.23
+    Contrastive Recon Train Loss: 4.16
+    Total Contrastive Train Loss: 9.39
+    Recon Train Loss: 2.09
+    Cycle Train Loss:       0.0030635596
+  Total Valid Loss:        10.87
+    Contrastive Valid Loss: 7.42
+    Contrastive Recon Valid Loss: 3.63
+    Total Contrastive Valid Loss: 11.06
+    Recon Valid Loss: 1.85
+    Cycle Valid Loss:       0.0045041702
+Learning Rate: 0.0001
+Epoch: 3, Alpha: 0.97
+  Total Train Loss:        8.99
+    Contrastive Train Loss: 5.20
+    Contrastive Recon Train Loss: 4.00
+    Total Contrastive Train Loss: 9.20
+    Recon Train Loss: 2.01
+    Cycle Train Loss:       0.0030949941
+  Total Valid Loss:        10.72
+    Contrastive Valid Loss: 7.41
+    Contrastive Recon Valid Loss: 3.58
+    Total Contrastive Valid Loss: 10.99
+    Recon Valid Loss: 1.82
+    Cycle Valid Loss:       0.0044238748
+Learning Rate: 0.0001
+Epoch: 4, Alpha: 0.96
+  Total Train Loss:        8.80
+    Contrastive Train Loss: 5.18
+    Contrastive Recon Train Loss: 3.89
+    Total Contrastive Train Loss: 9.07
+    Recon Train Loss: 1.96
+    Cycle Train Loss:       0.0032095016
+  Total Valid Loss:        10.57
+    Contrastive Valid Loss: 7.42
+    Contrastive Recon Valid Loss: 3.51
+    Total Contrastive Valid Loss: 10.93
+    Recon Valid Loss: 1.78
+    Cycle Valid Loss:       0.0044754318
+Learning Rate: 0.0001
+Epoch: 5, Alpha: 0.95
+  Total Train Loss:        8.63
+    Contrastive Train Loss: 5.17
+    Contrastive Recon Train Loss: 3.80
+    Total Contrastive Train Loss: 8.98
+    Recon Train Loss: 1.91
+    Cycle Train Loss:       0.0033032489
+  Total Valid Loss:        10.41
+    Contrastive Valid Loss: 7.42
+    Contrastive Recon Valid Loss: 3.43
+    Total Contrastive Valid Loss: 10.85
+    Recon Valid Loss: 1.75
+    Cycle Valid Loss:       0.0044391180
+Learning Rate: 0.0001
+Epoch: 6, Alpha: 0.94
+  Total Train Loss:        8.47
+    Contrastive Train Loss: 5.15
+    Contrastive Recon Train Loss: 3.73
+    Total Contrastive Train Loss: 8.88
+    Recon Train Loss: 1.88
+    Cycle Train Loss:       0.0034399635
+  Total Valid Loss:        10.30
+    Contrastive Valid Loss: 7.45
+    Contrastive Recon Valid Loss: 3.37
+    Total Contrastive Valid Loss: 10.83
+    Recon Valid Loss: 1.72
+    Cycle Valid Loss:       0.0047068486
+Learning Rate: 0.0001
+Epoch: 7, Alpha: 0.93
+  Total Train Loss:        8.32
+    Contrastive Train Loss: 5.14
+    Contrastive Recon Train Loss: 3.65
+    Total Contrastive Train Loss: 8.79
+    Recon Train Loss: 1.84
+    Cycle Train Loss:       0.0035373805
+  Total Valid Loss:        10.11
+    Contrastive Valid Loss: 7.44
+    Contrastive Recon Valid Loss: 3.28
+    Total Contrastive Valid Loss: 10.72
+    Recon Valid Loss: 1.67
+    Cycle Valid Loss:       0.0047661296
+Learning Rate: 0.0001
+Epoch: 8, Alpha: 0.92
+  Total Train Loss:        8.15
+    Contrastive Train Loss: 5.13
+    Contrastive Recon Train Loss: 3.55
+    Total Contrastive Train Loss: 8.68
+    Recon Train Loss: 1.79
+    Cycle Train Loss:       0.0037755521
+  Total Valid Loss:        9.94
+    Contrastive Valid Loss: 7.47
+    Contrastive Recon Valid Loss: 3.15
+    Total Contrastive Valid Loss: 10.63
+    Recon Valid Loss: 1.60
+    Cycle Valid Loss:       0.0052513936
+Learning Rate: 0.0001
+Epoch: 9, Alpha: 0.91
+  Total Train Loss:        7.99
+    Contrastive Train Loss: 5.12
+    Contrastive Recon Train Loss: 3.45
+    Total Contrastive Train Loss: 8.58
+    Recon Train Loss: 1.74
+    Cycle Train Loss:       0.0040707882
+  Total Valid Loss:        9.78
+    Contrastive Valid Loss: 7.47
+    Contrastive Recon Valid Loss: 3.08
+    Total Contrastive Valid Loss: 10.56
+    Recon Valid Loss: 1.57
+    Cycle Valid Loss:       0.0053799927
+Learning Rate: 0.0001
+Epoch: 10, Alpha: 0.90
+  Total Train Loss:        7.85
+    Contrastive Train Loss: 5.11
+    Contrastive Recon Train Loss: 3.38
+    Total Contrastive Train Loss: 8.50
+    Recon Train Loss: 1.71
+    Cycle Train Loss:       0.0042747470
+  Total Valid Loss:        9.63
+    Contrastive Valid Loss: 7.48
+    Contrastive Recon Valid Loss: 3.00
+    Total Contrastive Valid Loss: 10.48
+    Recon Valid Loss: 1.53
+    Cycle Valid Loss:       0.0054389499
+Learning Rate: 0.0001
+Epoch: 11, Alpha: 0.90
+  Total Train Loss:        7.72
+    Contrastive Train Loss: 5.10
+    Contrastive Recon Train Loss: 3.32
+    Total Contrastive Train Loss: 8.42
+    Recon Train Loss: 1.67
+    Cycle Train Loss:       0.0043573035
+  Total Valid Loss:        9.53
+    Contrastive Valid Loss: 7.50
+    Contrastive Recon Valid Loss: 2.96
+    Total Contrastive Valid Loss: 10.46
+    Recon Valid Loss: 1.50
+    Cycle Valid Loss:       0.0055203065
+Learning Rate: 0.0001
+Epoch: 12, Alpha: 0.89
+  Total Train Loss:        7.59
+    Contrastive Train Loss: 5.09
+    Contrastive Recon Train Loss: 3.26
+    Total Contrastive Train Loss: 8.35
+    Recon Train Loss: 1.64
+    Cycle Train Loss:       0.0044732839
+  Total Valid Loss:        9.39
+    Contrastive Valid Loss: 7.49
+    Contrastive Recon Valid Loss: 2.90
+    Total Contrastive Valid Loss: 10.40
+    Recon Valid Loss: 1.47
+    Cycle Valid Loss:       0.0056410492
+Learning Rate: 0.0001
+Epoch: 13, Alpha: 0.88
+  Total Train Loss:        7.45
+    Contrastive Train Loss: 5.08
+    Contrastive Recon Train Loss: 3.18
+    Total Contrastive Train Loss: 8.26
+    Recon Train Loss: 1.60
+    Cycle Train Loss:       0.0046891070
+  Total Valid Loss:        9.23
+    Contrastive Valid Loss: 7.50
+    Contrastive Recon Valid Loss: 2.81
+    Total Contrastive Valid Loss: 10.32
+    Recon Valid Loss: 1.43
+    Cycle Valid Loss:       0.0057847825
+Learning Rate: 0.0001
+Epoch: 14, Alpha: 0.87
+  Total Train Loss:        7.32
+    Contrastive Train Loss: 5.07
+    Contrastive Recon Train Loss: 3.10
+    Total Contrastive Train Loss: 8.18
+    Recon Train Loss: 1.57
+    Cycle Train Loss:       0.0048613959
+  Total Valid Loss:        9.11
+    Contrastive Valid Loss: 7.51
+    Contrastive Recon Valid Loss: 2.75
+    Total Contrastive Valid Loss: 10.27
+    Recon Valid Loss: 1.39
+    Cycle Valid Loss:       0.0058604373
+Learning Rate: 0.0001
+Epoch: 15, Alpha: 0.86
+  Total Train Loss:        7.20
+    Contrastive Train Loss: 5.07
+    Contrastive Recon Train Loss: 3.04
+    Total Contrastive Train Loss: 8.11
+    Recon Train Loss: 1.53
+    Cycle Train Loss:       0.0050191767
+  Total Valid Loss:        8.99
+    Contrastive Valid Loss: 7.50
+    Contrastive Recon Valid Loss: 2.71
+    Total Contrastive Valid Loss: 10.22
+    Recon Valid Loss: 1.37
+    Cycle Valid Loss:       0.0059796898
+Learning Rate: 0.0001
+Epoch: 16, Alpha: 0.85
+  Total Train Loss:        7.08
+    Contrastive Train Loss: 5.06
+    Contrastive Recon Train Loss: 2.99
+    Total Contrastive Train Loss: 8.05
+    Recon Train Loss: 1.51
+    Cycle Train Loss:       0.0051769216
+  Total Valid Loss:        8.88
+    Contrastive Valid Loss: 7.54
+    Contrastive Recon Valid Loss: 2.65
+    Total Contrastive Valid Loss: 10.19
+    Recon Valid Loss: 1.34
+    Cycle Valid Loss:       0.0063301431
+Learning Rate: 0.0001
+Epoch: 17, Alpha: 0.84
+  Total Train Loss:        6.97
+    Contrastive Train Loss: 5.05
+    Contrastive Recon Train Loss: 2.93
+    Total Contrastive Train Loss: 7.99
+    Recon Train Loss: 1.48
+    Cycle Train Loss:       0.0052981800
+  Total Valid Loss:        8.80
+    Contrastive Valid Loss: 7.55
+    Contrastive Recon Valid Loss: 2.63
+    Total Contrastive Valid Loss: 10.19
+    Recon Valid Loss: 1.32
+    Cycle Valid Loss:       0.0063049132
+Learning Rate: 0.0001
+Epoch: 18, Alpha: 0.84
+  Total Train Loss:        6.86
+    Contrastive Train Loss: 5.04
+    Contrastive Recon Train Loss: 2.89
+    Total Contrastive Train Loss: 7.93
+    Recon Train Loss: 1.45
+    Cycle Train Loss:       0.0053846313
+  Total Valid Loss:        8.69
+    Contrastive Valid Loss: 7.57
+    Contrastive Recon Valid Loss: 2.58
+    Total Contrastive Valid Loss: 10.16
+    Recon Valid Loss: 1.29
+    Cycle Valid Loss:       0.0064515641
+Learning Rate: 0.0001
+Epoch: 19, Alpha: 0.83
+  Total Train Loss:        6.76
+    Contrastive Train Loss: 5.04
+    Contrastive Recon Train Loss: 2.84
+    Total Contrastive Train Loss: 7.88
+    Recon Train Loss: 1.43
+    Cycle Train Loss:       0.0054850123
+  Total Valid Loss:        8.58
+    Contrastive Valid Loss: 7.57
+    Contrastive Recon Valid Loss: 2.54
+    Total Contrastive Valid Loss: 10.11
+    Recon Valid Loss: 1.26
+    Cycle Valid Loss:       0.0066408918
+Learning Rate: 0.0001
+Epoch: 20, Alpha: 0.82
+  Total Train Loss:        6.66
+    Contrastive Train Loss: 5.03
+    Contrastive Recon Train Loss: 2.79
+    Total Contrastive Train Loss: 7.83
+    Recon Train Loss: 1.41
+    Cycle Train Loss:       0.0057034322
+  Total Valid Loss:        8.45
+    Contrastive Valid Loss: 7.57
+    Contrastive Recon Valid Loss: 2.48
+    Total Contrastive Valid Loss: 10.05
+    Recon Valid Loss: 1.23
+    Cycle Valid Loss:       0.0067749239
+Learning Rate: 0.0001
+Epoch: 21, Alpha: 0.81
+  Total Train Loss:        6.56
+    Contrastive Train Loss: 5.02
+    Contrastive Recon Train Loss: 2.75
+    Total Contrastive Train Loss: 7.77
+    Recon Train Loss: 1.38
+    Cycle Train Loss:       0.0057949102
+  Total Valid Loss:        8.36
+    Contrastive Valid Loss: 7.57
+    Contrastive Recon Valid Loss: 2.45
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 1.21
+    Cycle Valid Loss:       0.0067809846
+Learning Rate: 0.0001
+Epoch: 22, Alpha: 0.80
+  Total Train Loss:        6.47
+    Contrastive Train Loss: 5.02
+    Contrastive Recon Train Loss: 2.70
+    Total Contrastive Train Loss: 7.73
+    Recon Train Loss: 1.36
+    Cycle Train Loss:       0.0058833446
+  Total Valid Loss:        8.24
+    Contrastive Valid Loss: 7.57
+    Contrastive Recon Valid Loss: 2.41
+    Total Contrastive Valid Loss: 9.98
+    Recon Valid Loss: 1.19
+    Cycle Valid Loss:       0.0069422026
+Learning Rate: 0.0001
+Epoch: 23, Alpha: 0.79
+  Total Train Loss:        6.38
+    Contrastive Train Loss: 5.01
+    Contrastive Recon Train Loss: 2.67
+    Total Contrastive Train Loss: 7.69
+    Recon Train Loss: 1.34
+    Cycle Train Loss:       0.0059966660
+  Total Valid Loss:        8.18
+    Contrastive Valid Loss: 7.60
+    Contrastive Recon Valid Loss: 2.39
+    Total Contrastive Valid Loss: 10.00
+    Recon Valid Loss: 1.18
+    Cycle Valid Loss:       0.0069773953
+Learning Rate: 0.0001
+Epoch: 24, Alpha: 0.79
+  Total Train Loss:        6.30
+    Contrastive Train Loss: 5.01
+    Contrastive Recon Train Loss: 2.63
+    Total Contrastive Train Loss: 7.65
+    Recon Train Loss: 1.32
+    Cycle Train Loss:       0.0060966053
+  Total Valid Loss:        8.09
+    Contrastive Valid Loss: 7.60
+    Contrastive Recon Valid Loss: 2.37
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 1.17
+    Cycle Valid Loss:       0.0069350863
+Learning Rate: 0.0001
+Epoch: 25, Alpha: 0.78
+  Total Train Loss:        6.21
+    Contrastive Train Loss: 5.00
+    Contrastive Recon Train Loss: 2.60
+    Total Contrastive Train Loss: 7.60
+    Recon Train Loss: 1.30
+    Cycle Train Loss:       0.0061530075
+  Total Valid Loss:        8.01
+    Contrastive Valid Loss: 7.61
+    Contrastive Recon Valid Loss: 2.34
+    Total Contrastive Valid Loss: 9.96
+    Recon Valid Loss: 1.15
+    Cycle Valid Loss:       0.0071804354
+Learning Rate: 0.0001
+Epoch: 26, Alpha: 0.77
+  Total Train Loss:        6.13
+    Contrastive Train Loss: 4.99
+    Contrastive Recon Train Loss: 2.57
+    Total Contrastive Train Loss: 7.57
+    Recon Train Loss: 1.29
+    Cycle Train Loss:       0.0062788000
+  Total Valid Loss:        7.92
+    Contrastive Valid Loss: 7.61
+    Contrastive Recon Valid Loss: 2.31
+    Total Contrastive Valid Loss: 9.93
+    Recon Valid Loss: 1.13
+    Cycle Valid Loss:       0.0072703642
+Learning Rate: 0.0001
+Epoch: 27, Alpha: 0.76
+  Total Train Loss:        6.06
+    Contrastive Train Loss: 4.99
+    Contrastive Recon Train Loss: 2.54
+    Total Contrastive Train Loss: 7.54
+    Recon Train Loss: 1.27
+    Cycle Train Loss:       0.0063889959
+  Total Valid Loss:        7.84
+    Contrastive Valid Loss: 7.62
+    Contrastive Recon Valid Loss: 2.29
+    Total Contrastive Valid Loss: 9.92
+    Recon Valid Loss: 1.12
+    Cycle Valid Loss:       0.0073471226
+Learning Rate: 0.0001
+Epoch: 28, Alpha: 0.76
+  Total Train Loss:        5.98
+    Contrastive Train Loss: 4.99
+    Contrastive Recon Train Loss: 2.51
+    Total Contrastive Train Loss: 7.51
+    Recon Train Loss: 1.25
+    Cycle Train Loss:       0.0065131408
+  Total Valid Loss:        7.77
+    Contrastive Valid Loss: 7.65
+    Contrastive Recon Valid Loss: 2.27
+    Total Contrastive Valid Loss: 9.92
+    Recon Valid Loss: 1.11
+    Cycle Valid Loss:       0.0074581207
+Learning Rate: 0.0001
+Epoch: 29, Alpha: 0.75
+  Total Train Loss:        5.90
+    Contrastive Train Loss: 4.98
+    Contrastive Recon Train Loss: 2.48
+    Total Contrastive Train Loss: 7.46
+    Recon Train Loss: 1.24
+    Cycle Train Loss:       0.0065345327
+  Total Valid Loss:        7.67
+    Contrastive Valid Loss: 7.64
+    Contrastive Recon Valid Loss: 2.24
+    Total Contrastive Valid Loss: 9.88
+    Recon Valid Loss: 1.09
+    Cycle Valid Loss:       0.0075784411
+Learning Rate: 0.0001
+Epoch: 30, Alpha: 0.74
+  Total Train Loss:        5.82
+    Contrastive Train Loss: 4.98
+    Contrastive Recon Train Loss: 2.45
+    Total Contrastive Train Loss: 7.43
+    Recon Train Loss: 1.22
+    Cycle Train Loss:       0.0066857277
+  Total Valid Loss:        7.60
+    Contrastive Valid Loss: 7.65
+    Contrastive Recon Valid Loss: 2.22
+    Total Contrastive Valid Loss: 9.88
+    Recon Valid Loss: 1.08
+    Cycle Valid Loss:       0.0076255150
+Learning Rate: 0.0001
+Epoch: 31, Alpha: 0.73
+  Total Train Loss:        5.75
+    Contrastive Train Loss: 4.97
+    Contrastive Recon Train Loss: 2.42
+    Total Contrastive Train Loss: 7.40
+    Recon Train Loss: 1.21
+    Cycle Train Loss:       0.0067679039
+  Total Valid Loss:        7.50
+    Contrastive Valid Loss: 7.64
+    Contrastive Recon Valid Loss: 2.20
+    Total Contrastive Valid Loss: 9.85
+    Recon Valid Loss: 1.06
+    Cycle Valid Loss:       0.0076205399
+Learning Rate: 0.0001
+Epoch: 32, Alpha: 0.73
+  Total Train Loss:        5.68
+    Contrastive Train Loss: 4.97
+    Contrastive Recon Train Loss: 2.39
+    Total Contrastive Train Loss: 7.37
+    Recon Train Loss: 1.19
+    Cycle Train Loss:       0.0068451208
+  Total Valid Loss:        7.44
+    Contrastive Valid Loss: 7.65
+    Contrastive Recon Valid Loss: 2.19
+    Total Contrastive Valid Loss: 9.84
+    Recon Valid Loss: 1.06
+    Cycle Valid Loss:       0.0078333650
+Learning Rate: 0.0001
+Epoch: 33, Alpha: 0.72
+  Total Train Loss:        5.61
+    Contrastive Train Loss: 4.97
+    Contrastive Recon Train Loss: 2.36
+    Total Contrastive Train Loss: 7.34
+    Recon Train Loss: 1.18
+    Cycle Train Loss:       0.0069393465
+  Total Valid Loss:        7.32
+    Contrastive Valid Loss: 7.61
+    Contrastive Recon Valid Loss: 2.16
+    Total Contrastive Valid Loss: 9.78
+    Recon Valid Loss: 1.04
+    Cycle Valid Loss:       0.0076245965
+Learning Rate: 0.0001
+Epoch: 34, Alpha: 0.71
+  Total Train Loss:        5.54
+    Contrastive Train Loss: 4.96
+    Contrastive Recon Train Loss: 2.34
+    Total Contrastive Train Loss: 7.31
+    Recon Train Loss: 1.16
+    Cycle Train Loss:       0.0069987099
+  Total Valid Loss:        7.28
+    Contrastive Valid Loss: 7.65
+    Contrastive Recon Valid Loss: 2.15
+    Total Contrastive Valid Loss: 9.81
+    Recon Valid Loss: 1.03
+    Cycle Valid Loss:       0.0077792161
+Learning Rate: 0.0001
+Epoch: 35, Alpha: 0.70
+  Total Train Loss:        5.47
+    Contrastive Train Loss: 4.96
+    Contrastive Recon Train Loss: 2.32
+    Total Contrastive Train Loss: 7.28
+    Recon Train Loss: 1.15
+    Cycle Train Loss:       0.0070506815
+  Total Valid Loss:        7.21
+    Contrastive Valid Loss: 7.67
+    Contrastive Recon Valid Loss: 2.13
+    Total Contrastive Valid Loss: 9.81
+    Recon Valid Loss: 1.02
+    Cycle Valid Loss:       0.0078100774
+Learning Rate: 0.0001
+Epoch: 36, Alpha: 0.70
+  Total Train Loss:        5.41
+    Contrastive Train Loss: 4.95
+    Contrastive Recon Train Loss: 2.29
+    Total Contrastive Train Loss: 7.25
+    Recon Train Loss: 1.14
+    Cycle Train Loss:       0.0071256280
+  Total Valid Loss:        7.16
+    Contrastive Valid Loss: 7.69
+    Contrastive Recon Valid Loss: 2.12
+    Total Contrastive Valid Loss: 9.82
+    Recon Valid Loss: 1.01
+    Cycle Valid Loss:       0.0079797448
+Learning Rate: 0.0001
+Epoch: 37, Alpha: 0.69
+  Total Train Loss:        5.34
+    Contrastive Train Loss: 4.95
+    Contrastive Recon Train Loss: 2.27
+    Total Contrastive Train Loss: 7.23
+    Recon Train Loss: 1.13
+    Cycle Train Loss:       0.0072431471
+  Total Valid Loss:        7.07
+    Contrastive Valid Loss: 7.67
+    Contrastive Recon Valid Loss: 2.11
+    Total Contrastive Valid Loss: 9.79
+    Recon Valid Loss: 1.01
+    Cycle Valid Loss:       0.0079885529
+Learning Rate: 0.0001
+Epoch: 38, Alpha: 0.68
+  Total Train Loss:        5.28
+    Contrastive Train Loss: 4.95
+    Contrastive Recon Train Loss: 2.25
+    Total Contrastive Train Loss: 7.21
+    Recon Train Loss: 1.12
+    Cycle Train Loss:       0.0072640064
+  Total Valid Loss:        7.02
+    Contrastive Valid Loss: 7.71
+    Contrastive Recon Valid Loss: 2.09
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 1.00
+    Cycle Valid Loss:       0.0081206242
+Learning Rate: 0.0001
+Epoch: 39, Alpha: 0.68
+  Total Train Loss:        5.22
+    Contrastive Train Loss: 4.95
+    Contrastive Recon Train Loss: 2.23
+    Total Contrastive Train Loss: 7.18
+    Recon Train Loss: 1.11
+    Cycle Train Loss:       0.0073625457
+  Total Valid Loss:        6.95
+    Contrastive Valid Loss: 7.71
+    Contrastive Recon Valid Loss: 2.08
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.99
+    Cycle Valid Loss:       0.0080607230
+Learning Rate: 0.0001
+Epoch: 40, Alpha: 0.67
+  Total Train Loss:        5.16
+    Contrastive Train Loss: 4.94
+    Contrastive Recon Train Loss: 2.21
+    Total Contrastive Train Loss: 7.15
+    Recon Train Loss: 1.09
+    Cycle Train Loss:       0.0073700339
+  Total Valid Loss:        6.86
+    Contrastive Valid Loss: 7.67
+    Contrastive Recon Valid Loss: 2.07
+    Total Contrastive Valid Loss: 9.75
+    Recon Valid Loss: 0.98
+    Cycle Valid Loss:       0.0080426982
+Learning Rate: 0.0001
+Epoch: 41, Alpha: 0.66
+  Total Train Loss:        5.10
+    Contrastive Train Loss: 4.94
+    Contrastive Recon Train Loss: 2.19
+    Total Contrastive Train Loss: 7.13
+    Recon Train Loss: 1.08
+    Cycle Train Loss:       0.0074388316
+  Total Valid Loss:        6.84
+    Contrastive Valid Loss: 7.74
+    Contrastive Recon Valid Loss: 2.06
+    Total Contrastive Valid Loss: 9.81
+    Recon Valid Loss: 0.98
+    Cycle Valid Loss:       0.0082590351
+Learning Rate: 0.0001
+Epoch: 42, Alpha: 0.66
+  Total Train Loss:        5.04
+    Contrastive Train Loss: 4.93
+    Contrastive Recon Train Loss: 2.17
+    Total Contrastive Train Loss: 7.11
+    Recon Train Loss: 1.07
+    Cycle Train Loss:       0.0075069348
+  Total Valid Loss:        6.75
+    Contrastive Valid Loss: 7.71
+    Contrastive Recon Valid Loss: 2.05
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.97
+    Cycle Valid Loss:       0.0081983293
+Learning Rate: 0.0001
+Epoch: 43, Alpha: 0.65
+  Total Train Loss:        4.98
+    Contrastive Train Loss: 4.93
+    Contrastive Recon Train Loss: 2.15
+    Total Contrastive Train Loss: 7.09
+    Recon Train Loss: 1.06
+    Cycle Train Loss:       0.0075958136
+  Total Valid Loss:        6.71
+    Contrastive Valid Loss: 7.74
+    Contrastive Recon Valid Loss: 2.04
+    Total Contrastive Valid Loss: 9.79
+    Recon Valid Loss: 0.96
+    Cycle Valid Loss:       0.0083194261
+Learning Rate: 0.0001
+Epoch: 44, Alpha: 0.64
+  Total Train Loss:        4.93
+    Contrastive Train Loss: 4.93
+    Contrastive Recon Train Loss: 2.13
+    Total Contrastive Train Loss: 7.07
+    Recon Train Loss: 1.05
+    Cycle Train Loss:       0.0076230550
+  Total Valid Loss:        6.62
+    Contrastive Valid Loss: 7.72
+    Contrastive Recon Valid Loss: 2.02
+    Total Contrastive Valid Loss: 9.75
+    Recon Valid Loss: 0.96
+    Cycle Valid Loss:       0.0082404776
+Learning Rate: 0.0001
+Epoch: 45, Alpha: 0.64
+  Total Train Loss:        4.87
+    Contrastive Train Loss: 4.93
+    Contrastive Recon Train Loss: 2.11
+    Total Contrastive Train Loss: 7.05
+    Recon Train Loss: 1.05
+    Cycle Train Loss:       0.0076663195
+  Total Valid Loss:        6.56
+    Contrastive Valid Loss: 7.72
+    Contrastive Recon Valid Loss: 2.02
+    Total Contrastive Valid Loss: 9.75
+    Recon Valid Loss: 0.95
+    Cycle Valid Loss:       0.0083000836
+Learning Rate: 0.0001
+Epoch: 46, Alpha: 0.63
+  Total Train Loss:        4.82
+    Contrastive Train Loss: 4.93
+    Contrastive Recon Train Loss: 2.10
+    Total Contrastive Train Loss: 7.03
+    Recon Train Loss: 1.04
+    Cycle Train Loss:       0.0077338003
+  Total Valid Loss:        6.50
+    Contrastive Valid Loss: 7.73
+    Contrastive Recon Valid Loss: 2.01
+    Total Contrastive Valid Loss: 9.75
+    Recon Valid Loss: 0.95
+    Cycle Valid Loss:       0.0083837511
+Learning Rate: 0.0001
+Epoch: 47, Alpha: 0.63
+  Total Train Loss:        4.77
+    Contrastive Train Loss: 4.92
+    Contrastive Recon Train Loss: 2.08
+    Total Contrastive Train Loss: 7.01
+    Recon Train Loss: 1.03
+    Cycle Train Loss:       0.0077606581
+  Total Valid Loss:        6.44
+    Contrastive Valid Loss: 7.73
+    Contrastive Recon Valid Loss: 2.00
+    Total Contrastive Valid Loss: 9.73
+    Recon Valid Loss: 0.94
+    Cycle Valid Loss:       0.0082757699
+Learning Rate: 0.0001
+Epoch: 48, Alpha: 0.62
+  Total Train Loss:        4.72
+    Contrastive Train Loss: 4.92
+    Contrastive Recon Train Loss: 2.07
+    Total Contrastive Train Loss: 6.99
+    Recon Train Loss: 1.02
+    Cycle Train Loss:       0.0078079335
+  Total Valid Loss:        6.39
+    Contrastive Valid Loss: 7.76
+    Contrastive Recon Valid Loss: 1.99
+    Total Contrastive Valid Loss: 9.76
+    Recon Valid Loss: 0.94
+    Cycle Valid Loss:       0.0083740181
+Learning Rate: 0.0001
+Epoch: 49, Alpha: 0.61
+  Total Train Loss:        4.67
+    Contrastive Train Loss: 4.92
+    Contrastive Recon Train Loss: 2.05
+    Total Contrastive Train Loss: 6.98
+    Recon Train Loss: 1.02
+    Cycle Train Loss:       0.0078293015
+  Total Valid Loss:        6.34
+    Contrastive Valid Loss: 7.76
+    Contrastive Recon Valid Loss: 1.99
+    Total Contrastive Valid Loss: 9.76
+    Recon Valid Loss: 0.94
+    Cycle Valid Loss:       0.0083887098
+Learning Rate: 0.0001
+Epoch: 50, Alpha: 0.61
+  Total Train Loss:        4.62
+    Contrastive Train Loss: 4.92
+    Contrastive Recon Train Loss: 2.04
+    Total Contrastive Train Loss: 6.96
+    Recon Train Loss: 1.01
+    Cycle Train Loss:       0.0078626795
+  Total Valid Loss:        6.29
+    Contrastive Valid Loss: 7.76
+    Contrastive Recon Valid Loss: 1.99
+    Total Contrastive Valid Loss: 9.76
+    Recon Valid Loss: 0.94
+    Cycle Valid Loss:       0.0085334611
+Learning Rate: 0.0001
+Epoch: 51, Alpha: 0.60
+  Total Train Loss:        4.57
+    Contrastive Train Loss: 4.91
+    Contrastive Recon Train Loss: 2.03
+    Total Contrastive Train Loss: 6.95
+    Recon Train Loss: 1.00
+    Cycle Train Loss:       0.0078871454
+  Total Valid Loss:        6.24
+    Contrastive Valid Loss: 7.78
+    Contrastive Recon Valid Loss: 1.98
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.93
+    Cycle Valid Loss:       0.0085831042
+Learning Rate: 0.0001
+Epoch: 52, Alpha: 0.59
+  Total Train Loss:        4.52
+    Contrastive Train Loss: 4.91
+    Contrastive Recon Train Loss: 2.01
+    Total Contrastive Train Loss: 6.93
+    Recon Train Loss: 0.99
+    Cycle Train Loss:       0.0079701314
+  Total Valid Loss:        6.17
+    Contrastive Valid Loss: 7.78
+    Contrastive Recon Valid Loss: 1.96
+    Total Contrastive Valid Loss: 9.75
+    Recon Valid Loss: 0.92
+    Cycle Valid Loss:       0.0085334008
+Learning Rate: 0.0001
+Epoch: 53, Alpha: 0.59
+  Total Train Loss:        4.48
+    Contrastive Train Loss: 4.91
+    Contrastive Recon Train Loss: 2.00
+    Total Contrastive Train Loss: 6.91
+    Recon Train Loss: 0.99
+    Cycle Train Loss:       0.0078846882
+  Total Valid Loss:        6.11
+    Contrastive Valid Loss: 7.76
+    Contrastive Recon Valid Loss: 1.97
+    Total Contrastive Valid Loss: 9.74
+    Recon Valid Loss: 0.92
+    Cycle Valid Loss:       0.0085370223
+Learning Rate: 0.0001
+Epoch: 54, Alpha: 0.58
+  Total Train Loss:        4.43
+    Contrastive Train Loss: 4.91
+    Contrastive Recon Train Loss: 1.99
+    Total Contrastive Train Loss: 6.90
+    Recon Train Loss: 0.98
+    Cycle Train Loss:       0.0079841484
+  Total Valid Loss:        6.06
+    Contrastive Valid Loss: 7.77
+    Contrastive Recon Valid Loss: 1.96
+    Total Contrastive Valid Loss: 9.74
+    Recon Valid Loss: 0.92
+    Cycle Valid Loss:       0.0085214255
+Learning Rate: 0.0001
+Epoch: 55, Alpha: 0.58
+  Total Train Loss:        4.39
+    Contrastive Train Loss: 4.90
+    Contrastive Recon Train Loss: 1.98
+    Total Contrastive Train Loss: 6.89
+    Recon Train Loss: 0.98
+    Cycle Train Loss:       0.0080685993
+  Total Valid Loss:        6.01
+    Contrastive Valid Loss: 7.78
+    Contrastive Recon Valid Loss: 1.96
+    Total Contrastive Valid Loss: 9.74
+    Recon Valid Loss: 0.91
+    Cycle Valid Loss:       0.0085518934
+Learning Rate: 0.0001
+Epoch: 56, Alpha: 0.57
+  Total Train Loss:        4.34
+    Contrastive Train Loss: 4.90
+    Contrastive Recon Train Loss: 1.96
+    Total Contrastive Train Loss: 6.87
+    Recon Train Loss: 0.97
+    Cycle Train Loss:       0.0080738157
+  Total Valid Loss:        5.96
+    Contrastive Valid Loss: 7.77
+    Contrastive Recon Valid Loss: 1.96
+    Total Contrastive Valid Loss: 9.74
+    Recon Valid Loss: 0.92
+    Cycle Valid Loss:       0.0085964574
+Learning Rate: 0.0001
+Epoch: 57, Alpha: 0.57
+  Total Train Loss:        4.30
+    Contrastive Train Loss: 4.90
+    Contrastive Recon Train Loss: 1.95
+    Total Contrastive Train Loss: 6.86
+    Recon Train Loss: 0.96
+    Cycle Train Loss:       0.0080779407
+  Total Valid Loss:        5.91
+    Contrastive Valid Loss: 7.80
+    Contrastive Recon Valid Loss: 1.95
+    Total Contrastive Valid Loss: 9.75
+    Recon Valid Loss: 0.92
+    Cycle Valid Loss:       0.0086764911
+Learning Rate: 0.0001
+Epoch: 58, Alpha: 0.56
+  Total Train Loss:        4.26
+    Contrastive Train Loss: 4.90
+    Contrastive Recon Train Loss: 1.94
+    Total Contrastive Train Loss: 6.85
+    Recon Train Loss: 0.96
+    Cycle Train Loss:       0.0081329054
+  Total Valid Loss:        5.87
+    Contrastive Valid Loss: 7.79
+    Contrastive Recon Valid Loss: 1.96
+    Total Contrastive Valid Loss: 9.76
+    Recon Valid Loss: 0.92
+    Cycle Valid Loss:       0.0085573216
+Learning Rate: 0.0001
+Epoch: 59, Alpha: 0.55
+  Total Train Loss:        4.21
+    Contrastive Train Loss: 4.90
+    Contrastive Recon Train Loss: 1.93
+    Total Contrastive Train Loss: 6.83
+    Recon Train Loss: 0.95
+    Cycle Train Loss:       0.0081554039
+  Total Valid Loss:        5.82
+    Contrastive Valid Loss: 7.81
+    Contrastive Recon Valid Loss: 1.95
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.91
+    Cycle Valid Loss:       0.0086460392
+Learning Rate: 0.0001
+Epoch: 60, Alpha: 0.55
+  Total Train Loss:        4.17
+    Contrastive Train Loss: 4.90
+    Contrastive Recon Train Loss: 1.92
+    Total Contrastive Train Loss: 6.83
+    Recon Train Loss: 0.95
+    Cycle Train Loss:       0.0081829920
+  Total Valid Loss:        5.76
+    Contrastive Valid Loss: 7.82
+    Contrastive Recon Valid Loss: 1.93
+    Total Contrastive Valid Loss: 9.76
+    Recon Valid Loss: 0.90
+    Cycle Valid Loss:       0.0085769749
+Learning Rate: 0.0001
+Epoch: 61, Alpha: 0.54
+  Total Train Loss:        4.13
+    Contrastive Train Loss: 4.89
+    Contrastive Recon Train Loss: 1.91
+    Total Contrastive Train Loss: 6.81
+    Recon Train Loss: 0.94
+    Cycle Train Loss:       0.0081626846
+  Total Valid Loss:        5.73
+    Contrastive Valid Loss: 7.83
+    Contrastive Recon Valid Loss: 1.94
+    Total Contrastive Valid Loss: 9.78
+    Recon Valid Loss: 0.91
+    Cycle Valid Loss:       0.0087011231
+Learning Rate: 0.0001
+Epoch: 62, Alpha: 0.54
+  Total Train Loss:        4.09
+    Contrastive Train Loss: 4.89
+    Contrastive Recon Train Loss: 1.90
+    Total Contrastive Train Loss: 6.80
+    Recon Train Loss: 0.94
+    Cycle Train Loss:       0.0082412243
+  Total Valid Loss:        5.67
+    Contrastive Valid Loss: 7.82
+    Contrastive Recon Valid Loss: 1.93
+    Total Contrastive Valid Loss: 9.76
+    Recon Valid Loss: 0.91
+    Cycle Valid Loss:       0.0086738389
+Learning Rate: 0.0001
+Epoch: 63, Alpha: 0.53
+  Total Train Loss:        4.05
+    Contrastive Train Loss: 4.89
+    Contrastive Recon Train Loss: 1.89
+    Total Contrastive Train Loss: 6.79
+    Recon Train Loss: 0.93
+    Cycle Train Loss:       0.0082405989
+  Total Valid Loss:        5.62
+    Contrastive Valid Loss: 7.82
+    Contrastive Recon Valid Loss: 1.93
+    Total Contrastive Valid Loss: 9.76
+    Recon Valid Loss: 0.90
+    Cycle Valid Loss:       0.0087761533
+Learning Rate: 0.0001
+Epoch: 64, Alpha: 0.53
+  Total Train Loss:        4.01
+    Contrastive Train Loss: 4.89
+    Contrastive Recon Train Loss: 1.88
+    Total Contrastive Train Loss: 6.78
+    Recon Train Loss: 0.93
+    Cycle Train Loss:       0.0082594538
+  Total Valid Loss:        5.58
+    Contrastive Valid Loss: 7.86
+    Contrastive Recon Valid Loss: 1.92
+    Total Contrastive Valid Loss: 9.79
+    Recon Valid Loss: 0.89
+    Cycle Valid Loss:       0.0087688014
+Learning Rate: 0.0001
+Epoch: 65, Alpha: 0.52
+  Total Train Loss:        3.97
+    Contrastive Train Loss: 4.88
+    Contrastive Recon Train Loss: 1.87
+    Total Contrastive Train Loss: 6.77
+    Recon Train Loss: 0.92
+    Cycle Train Loss:       0.0082799506
+  Total Valid Loss:        5.53
+    Contrastive Valid Loss: 7.86
+    Contrastive Recon Valid Loss: 1.92
+    Total Contrastive Valid Loss: 9.78
+    Recon Valid Loss: 0.90
+    Cycle Valid Loss:       0.0087159078
+Learning Rate: 0.0001
+Epoch: 66, Alpha: 0.52
+  Total Train Loss:        3.94
+    Contrastive Train Loss: 4.88
+    Contrastive Recon Train Loss: 1.87
+    Total Contrastive Train Loss: 6.76
+    Recon Train Loss: 0.92
+    Cycle Train Loss:       0.0082882800
+  Total Valid Loss:        5.47
+    Contrastive Valid Loss: 7.83
+    Contrastive Recon Valid Loss: 1.91
+    Total Contrastive Valid Loss: 9.75
+    Recon Valid Loss: 0.89
+    Cycle Valid Loss:       0.0086999971
+Learning Rate: 0.0001
+Epoch: 67, Alpha: 0.51
+  Total Train Loss:        3.90
+    Contrastive Train Loss: 4.89
+    Contrastive Recon Train Loss: 1.86
+    Total Contrastive Train Loss: 6.75
+    Recon Train Loss: 0.92
+    Cycle Train Loss:       0.0083143028
+  Total Valid Loss:        5.45
+    Contrastive Valid Loss: 7.85
+    Contrastive Recon Valid Loss: 1.92
+    Total Contrastive Valid Loss: 9.78
+    Recon Valid Loss: 0.90
+    Cycle Valid Loss:       0.0087554053
+Learning Rate: 0.0001
+Epoch: 68, Alpha: 0.51
+  Total Train Loss:        3.86
+    Contrastive Train Loss: 4.88
+    Contrastive Recon Train Loss: 1.85
+    Total Contrastive Train Loss: 6.74
+    Recon Train Loss: 0.91
+    Cycle Train Loss:       0.0083377388
+  Total Valid Loss:        5.39
+    Contrastive Valid Loss: 7.86
+    Contrastive Recon Valid Loss: 1.91
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.89
+    Cycle Valid Loss:       0.0087535992
+Learning Rate: 0.0001
+Epoch: 69, Alpha: 0.50
+  Total Train Loss:        3.83
+    Contrastive Train Loss: 4.88
+    Contrastive Recon Train Loss: 1.84
+    Total Contrastive Train Loss: 6.73
+    Recon Train Loss: 0.91
+    Cycle Train Loss:       0.0083542616
+  Total Valid Loss:        5.33
+    Contrastive Valid Loss: 7.83
+    Contrastive Recon Valid Loss: 1.90
+    Total Contrastive Valid Loss: 9.74
+    Recon Valid Loss: 0.89
+    Cycle Valid Loss:       0.0086483287
+Learning Rate: 0.0001
+Epoch: 70, Alpha: 0.50
+  Total Train Loss:        3.79
+    Contrastive Train Loss: 4.88
+    Contrastive Recon Train Loss: 1.83
+    Total Contrastive Train Loss: 6.72
+    Recon Train Loss: 0.90
+    Cycle Train Loss:       0.0083639584
+  Total Valid Loss:        5.29
+    Contrastive Valid Loss: 7.83
+    Contrastive Recon Valid Loss: 1.92
+    Total Contrastive Valid Loss: 9.75
+    Recon Valid Loss: 0.90
+    Cycle Valid Loss:       0.0087108568
+Learning Rate: 0.0001
+Epoch: 71, Alpha: 0.49
+  Total Train Loss:        3.76
+    Contrastive Train Loss: 4.88
+    Contrastive Recon Train Loss: 1.83
+    Total Contrastive Train Loss: 6.71
+    Recon Train Loss: 0.90
+    Cycle Train Loss:       0.0083983001
+  Total Valid Loss:        5.26
+    Contrastive Valid Loss: 7.84
+    Contrastive Recon Valid Loss: 1.92
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.90
+    Cycle Valid Loss:       0.0086888109
+Learning Rate: 0.0001
+Epoch: 72, Alpha: 0.49
+  Total Train Loss:        3.72
+    Contrastive Train Loss: 4.88
+    Contrastive Recon Train Loss: 1.82
+    Total Contrastive Train Loss: 6.71
+    Recon Train Loss: 0.90
+    Cycle Train Loss:       0.0084131591
+  Total Valid Loss:        5.21
+    Contrastive Valid Loss: 7.87
+    Contrastive Recon Valid Loss: 1.90
+    Total Contrastive Valid Loss: 9.78
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0088357968
+Learning Rate: 0.0001
+Epoch: 73, Alpha: 0.48
+  Total Train Loss:        3.69
+    Contrastive Train Loss: 4.88
+    Contrastive Recon Train Loss: 1.81
+    Total Contrastive Train Loss: 6.70
+    Recon Train Loss: 0.89
+    Cycle Train Loss:       0.0084290888
+  Total Valid Loss:        5.18
+    Contrastive Valid Loss: 7.89
+    Contrastive Recon Valid Loss: 1.91
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.89
+    Cycle Valid Loss:       0.0086944505
+Learning Rate: 0.0001
+Epoch: 74, Alpha: 0.48
+  Total Train Loss:        3.66
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.81
+    Total Contrastive Train Loss: 6.69
+    Recon Train Loss: 0.89
+    Cycle Train Loss:       0.0084233939
+  Total Valid Loss:        5.13
+    Contrastive Valid Loss: 7.86
+    Contrastive Recon Valid Loss: 1.91
+    Total Contrastive Valid Loss: 9.78
+    Recon Valid Loss: 0.89
+    Cycle Valid Loss:       0.0087641035
+Learning Rate: 0.0001
+Epoch: 75, Alpha: 0.47
+  Total Train Loss:        3.62
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.80
+    Total Contrastive Train Loss: 6.68
+    Recon Train Loss: 0.89
+    Cycle Train Loss:       0.0084835273
+  Total Valid Loss:        5.10
+    Contrastive Valid Loss: 7.88
+    Contrastive Recon Valid Loss: 1.91
+    Total Contrastive Valid Loss: 9.81
+    Recon Valid Loss: 0.89
+    Cycle Valid Loss:       0.0087385089
+Learning Rate: 0.0001
+Epoch: 76, Alpha: 0.47
+  Total Train Loss:        3.59
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.79
+    Total Contrastive Train Loss: 6.67
+    Recon Train Loss: 0.88
+    Cycle Train Loss:       0.0084763219
+  Total Valid Loss:        5.04
+    Contrastive Valid Loss: 7.87
+    Contrastive Recon Valid Loss: 1.89
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0088105765
+Learning Rate: 0.0001
+Epoch: 77, Alpha: 0.46
+  Total Train Loss:        3.56
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.79
+    Total Contrastive Train Loss: 6.67
+    Recon Train Loss: 0.88
+    Cycle Train Loss:       0.0084715941
+  Total Valid Loss:        4.99
+    Contrastive Valid Loss: 7.88
+    Contrastive Recon Valid Loss: 1.88
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0088008399
+Learning Rate: 0.0001
+Epoch: 78, Alpha: 0.46
+  Total Train Loss:        3.53
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.78
+    Total Contrastive Train Loss: 6.66
+    Recon Train Loss: 0.88
+    Cycle Train Loss:       0.0085159886
+  Total Valid Loss:        4.96
+    Contrastive Valid Loss: 7.87
+    Contrastive Recon Valid Loss: 1.90
+    Total Contrastive Valid Loss: 9.78
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0087210794
+Learning Rate: 0.0001
+Epoch: 79, Alpha: 0.45
+  Total Train Loss:        3.50
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.77
+    Total Contrastive Train Loss: 6.65
+    Recon Train Loss: 0.87
+    Cycle Train Loss:       0.0084911632
+  Total Valid Loss:        4.92
+    Contrastive Valid Loss: 7.87
+    Contrastive Recon Valid Loss: 1.89
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0087752281
+Learning Rate: 0.0001
+Epoch: 80, Alpha: 0.45
+  Total Train Loss:        3.46
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.77
+    Total Contrastive Train Loss: 6.64
+    Recon Train Loss: 0.87
+    Cycle Train Loss:       0.0085302509
+  Total Valid Loss:        4.88
+    Contrastive Valid Loss: 7.90
+    Contrastive Recon Valid Loss: 1.89
+    Total Contrastive Valid Loss: 9.79
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0087685979
+Learning Rate: 0.0001
+Epoch: 81, Alpha: 0.44
+  Total Train Loss:        3.44
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.76
+    Total Contrastive Train Loss: 6.64
+    Recon Train Loss: 0.87
+    Cycle Train Loss:       0.0085231264
+  Total Valid Loss:        4.86
+    Contrastive Valid Loss: 7.92
+    Contrastive Recon Valid Loss: 1.89
+    Total Contrastive Valid Loss: 9.81
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0088616501
+Learning Rate: 0.0001
+Epoch: 82, Alpha: 0.44
+  Total Train Loss:        3.40
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.76
+    Total Contrastive Train Loss: 6.63
+    Recon Train Loss: 0.86
+    Cycle Train Loss:       0.0085388319
+  Total Valid Loss:        4.81
+    Contrastive Valid Loss: 7.90
+    Contrastive Recon Valid Loss: 1.89
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0087961201
+Learning Rate: 0.0001
+Epoch: 83, Alpha: 0.44
+  Total Train Loss:        3.38
+    Contrastive Train Loss: 4.87
+    Contrastive Recon Train Loss: 1.75
+    Total Contrastive Train Loss: 6.63
+    Recon Train Loss: 0.86
+    Cycle Train Loss:       0.0085951742
+  Total Valid Loss:        4.77
+    Contrastive Valid Loss: 7.91
+    Contrastive Recon Valid Loss: 1.89
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0088524544
+Learning Rate: 0.0001
+Epoch: 84, Alpha: 0.43
+  Total Train Loss:        3.35
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.75
+    Total Contrastive Train Loss: 6.62
+    Recon Train Loss: 0.86
+    Cycle Train Loss:       0.0085972266
+  Total Valid Loss:        4.73
+    Contrastive Valid Loss: 7.91
+    Contrastive Recon Valid Loss: 1.89
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.88
+    Cycle Valid Loss:       0.0087942610
+Learning Rate: 0.0001
+Epoch: 85, Alpha: 0.43
+  Total Train Loss:        3.32
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.74
+    Total Contrastive Train Loss: 6.61
+    Recon Train Loss: 0.86
+    Cycle Train Loss:       0.0086074814
+  Total Valid Loss:        4.68
+    Contrastive Valid Loss: 7.90
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.79
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088046395
+Learning Rate: 0.0001
+Epoch: 86, Alpha: 0.42
+  Total Train Loss:        3.29
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.74
+    Total Contrastive Train Loss: 6.61
+    Recon Train Loss: 0.85
+    Cycle Train Loss:       0.0085906158
+  Total Valid Loss:        4.65
+    Contrastive Valid Loss: 7.92
+    Contrastive Recon Valid Loss: 1.88
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0089912575
+Learning Rate: 0.0001
+Epoch: 87, Alpha: 0.42
+  Total Train Loss:        3.26
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.73
+    Total Contrastive Train Loss: 6.60
+    Recon Train Loss: 0.85
+    Cycle Train Loss:       0.0086281441
+  Total Valid Loss:        4.60
+    Contrastive Valid Loss: 7.89
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.77
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088107825
+Learning Rate: 0.0001
+Epoch: 88, Alpha: 0.41
+  Total Train Loss:        3.23
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.73
+    Total Contrastive Train Loss: 6.60
+    Recon Train Loss: 0.85
+    Cycle Train Loss:       0.0086589422
+  Total Valid Loss:        4.58
+    Contrastive Valid Loss: 7.92
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088885597
+Learning Rate: 0.0001
+Epoch: 89, Alpha: 0.41
+  Total Train Loss:        3.20
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.72
+    Total Contrastive Train Loss: 6.59
+    Recon Train Loss: 0.85
+    Cycle Train Loss:       0.0086003617
+  Total Valid Loss:        4.53
+    Contrastive Valid Loss: 7.91
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.79
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088414024
+Learning Rate: 0.0001
+Epoch: 90, Alpha: 0.41
+  Total Train Loss:        3.18
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.72
+    Total Contrastive Train Loss: 6.58
+    Recon Train Loss: 0.84
+    Cycle Train Loss:       0.0086662034
+  Total Valid Loss:        4.50
+    Contrastive Valid Loss: 7.92
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.81
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088684038
+Learning Rate: 0.0001
+Epoch: 91, Alpha: 0.40
+  Total Train Loss:        3.15
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.71
+    Total Contrastive Train Loss: 6.58
+    Recon Train Loss: 0.84
+    Cycle Train Loss:       0.0086570946
+  Total Valid Loss:        4.45
+    Contrastive Valid Loss: 7.91
+    Contrastive Recon Valid Loss: 1.86
+    Total Contrastive Valid Loss: 9.78
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088578048
+Learning Rate: 0.0001
+Epoch: 92, Alpha: 0.40
+  Total Train Loss:        3.12
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.71
+    Total Contrastive Train Loss: 6.57
+    Recon Train Loss: 0.84
+    Cycle Train Loss:       0.0086642428
+  Total Valid Loss:        4.43
+    Contrastive Valid Loss: 7.93
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.81
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088782883
+Learning Rate: 0.0001
+Epoch: 93, Alpha: 0.39
+  Total Train Loss:        3.10
+    Contrastive Train Loss: 4.86
+    Contrastive Recon Train Loss: 1.70
+    Total Contrastive Train Loss: 6.57
+    Recon Train Loss: 0.84
+    Cycle Train Loss:       0.0086784538
+  Total Valid Loss:        4.40
+    Contrastive Valid Loss: 7.94
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.82
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088330035
+Learning Rate: 0.0001
+Epoch: 94, Alpha: 0.39
+  Total Train Loss:        3.07
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.70
+    Total Contrastive Train Loss: 6.56
+    Recon Train Loss: 0.84
+    Cycle Train Loss:       0.0086945946
+  Total Valid Loss:        4.35
+    Contrastive Valid Loss: 7.92
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.79
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0088104613
+Learning Rate: 0.0001
+Epoch: 95, Alpha: 0.39
+  Total Train Loss:        3.05
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.69
+    Total Contrastive Train Loss: 6.56
+    Recon Train Loss: 0.83
+    Cycle Train Loss:       0.0087259131
+  Total Valid Loss:        4.34
+    Contrastive Valid Loss: 7.97
+    Contrastive Recon Valid Loss: 1.87
+    Total Contrastive Valid Loss: 9.84
+    Recon Valid Loss: 0.87
+    Cycle Valid Loss:       0.0089482118
+Learning Rate: 0.0001
+Epoch: 96, Alpha: 0.38
+  Total Train Loss:        3.02
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.69
+    Total Contrastive Train Loss: 6.55
+    Recon Train Loss: 0.83
+    Cycle Train Loss:       0.0087555676
+  Total Valid Loss:        4.29
+    Contrastive Valid Loss: 7.95
+    Contrastive Recon Valid Loss: 1.86
+    Total Contrastive Valid Loss: 9.82
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0089453526
+Learning Rate: 0.0001
+Epoch: 97, Alpha: 0.38
+  Total Train Loss:        3.00
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.69
+    Total Contrastive Train Loss: 6.55
+    Recon Train Loss: 0.83
+    Cycle Train Loss:       0.0087670475
+  Total Valid Loss:        4.26
+    Contrastive Valid Loss: 7.95
+    Contrastive Recon Valid Loss: 1.86
+    Total Contrastive Valid Loss: 9.83
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0088020216
+Learning Rate: 0.0001
+Epoch: 98, Alpha: 0.38
+  Total Train Loss:        2.96
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.67
+    Total Contrastive Train Loss: 6.53
+    Recon Train Loss: 0.82
+    Cycle Train Loss:       0.0087587978
+  Total Valid Loss:        4.22
+    Contrastive Valid Loss: 7.95
+    Contrastive Recon Valid Loss: 1.86
+    Total Contrastive Valid Loss: 9.82
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0089138321
+Learning Rate: 0.0001
+Epoch: 99, Alpha: 0.37
+  Total Train Loss:        2.93
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.66
+    Total Contrastive Train Loss: 6.52
+    Recon Train Loss: 0.82
+    Cycle Train Loss:       0.0087680477
+  Total Valid Loss:        4.20
+    Contrastive Valid Loss: 7.96
+    Contrastive Recon Valid Loss: 1.86
+    Total Contrastive Valid Loss: 9.83
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0090059186
+Learning Rate: 0.0001
+Epoch: 100, Alpha: 0.37
+  Total Train Loss:        2.91
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.65
+    Total Contrastive Train Loss: 6.51
+    Recon Train Loss: 0.81
+    Cycle Train Loss:       0.0087640635
+  Total Valid Loss:        4.15
+    Contrastive Valid Loss: 7.94
+    Contrastive Recon Valid Loss: 1.86
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0088991758
+Learning Rate: 0.0001
+Epoch: 101, Alpha: 0.36
+  Total Train Loss:        2.89
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.65
+    Total Contrastive Train Loss: 6.51
+    Recon Train Loss: 0.81
+    Cycle Train Loss:       0.0087897335
+  Total Valid Loss:        4.12
+    Contrastive Valid Loss: 7.96
+    Contrastive Recon Valid Loss: 1.85
+    Total Contrastive Valid Loss: 9.82
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0089000858
+Learning Rate: 0.0001
+Epoch: 102, Alpha: 0.36
+  Total Train Loss:        2.86
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.65
+    Total Contrastive Train Loss: 6.50
+    Recon Train Loss: 0.81
+    Cycle Train Loss:       0.0088526090
+  Total Valid Loss:        4.09
+    Contrastive Valid Loss: 7.97
+    Contrastive Recon Valid Loss: 1.84
+    Total Contrastive Valid Loss: 9.82
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0090323571
+Learning Rate: 0.0001
+Epoch: 103, Alpha: 0.36
+  Total Train Loss:        2.84
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.64
+    Total Contrastive Train Loss: 6.50
+    Recon Train Loss: 0.81
+    Cycle Train Loss:       0.0088183947
+  Total Valid Loss:        4.06
+    Contrastive Valid Loss: 7.97
+    Contrastive Recon Valid Loss: 1.85
+    Total Contrastive Valid Loss: 9.83
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0089794729
+Learning Rate: 0.0001
+Epoch: 104, Alpha: 0.35
+  Total Train Loss:        2.82
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.64
+    Total Contrastive Train Loss: 6.49
+    Recon Train Loss: 0.80
+    Cycle Train Loss:       0.0088559917
+  Total Valid Loss:        4.03
+    Contrastive Valid Loss: 7.98
+    Contrastive Recon Valid Loss: 1.86
+    Total Contrastive Valid Loss: 9.84
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0089232799
+Learning Rate: 0.0001
+Epoch: 105, Alpha: 0.35
+  Total Train Loss:        2.79
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.63
+    Total Contrastive Train Loss: 6.49
+    Recon Train Loss: 0.80
+    Cycle Train Loss:       0.0088282916
+  Total Valid Loss:        3.99
+    Contrastive Valid Loss: 7.94
+    Contrastive Recon Valid Loss: 1.86
+    Total Contrastive Valid Loss: 9.80
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0089923089
+Learning Rate: 0.0001
+Epoch: 106, Alpha: 0.35
+  Total Train Loss:        2.77
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.63
+    Total Contrastive Train Loss: 6.48
+    Recon Train Loss: 0.80
+    Cycle Train Loss:       0.0088569747
+  Total Valid Loss:        3.97
+    Contrastive Valid Loss: 7.99
+    Contrastive Recon Valid Loss: 1.84
+    Total Contrastive Valid Loss: 9.84
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0089940623
+Learning Rate: 0.0001
+Epoch: 107, Alpha: 0.34
+  Total Train Loss:        2.75
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.62
+    Total Contrastive Train Loss: 6.48
+    Recon Train Loss: 0.80
+    Cycle Train Loss:       0.0088481412
+  Total Valid Loss:        3.94
+    Contrastive Valid Loss: 8.00
+    Contrastive Recon Valid Loss: 1.85
+    Total Contrastive Valid Loss: 9.85
+    Recon Valid Loss: 0.86
+    Cycle Valid Loss:       0.0089665228
+Learning Rate: 0.0001
+Epoch: 108, Alpha: 0.34
+  Total Train Loss:        2.72
+    Contrastive Train Loss: 4.85
+    Contrastive Recon Train Loss: 1.62
+    Total Contrastive Train Loss: 6.48
+    Recon Train Loss: 0.80
+    Cycle Train Loss:       0.0089111319
+  Total Valid Loss:        3.90
+    Contrastive Valid Loss: 7.97
+    Contrastive Recon Valid Loss: 1.85
+    Total Contrastive Valid Loss: 9.82
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0089184052
+Learning Rate: 0.0001
+Epoch: 109, Alpha: 0.34
+  Total Train Loss:        2.70
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.62
+    Total Contrastive Train Loss: 6.47
+    Recon Train Loss: 0.79
+    Cycle Train Loss:       0.0089042080
+  Total Valid Loss:        3.88
+    Contrastive Valid Loss: 8.01
+    Contrastive Recon Valid Loss: 1.84
+    Total Contrastive Valid Loss: 9.86
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0091281971
+Learning Rate: 0.0001
+Epoch: 110, Alpha: 0.33
+  Total Train Loss:        2.68
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.61
+    Total Contrastive Train Loss: 6.47
+    Recon Train Loss: 0.79
+    Cycle Train Loss:       0.0089369919
+  Total Valid Loss:        3.85
+    Contrastive Valid Loss: 8.00
+    Contrastive Recon Valid Loss: 1.84
+    Total Contrastive Valid Loss: 9.85
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0090063564
+Learning Rate: 0.0001
+Epoch: 111, Alpha: 0.33
+  Total Train Loss:        2.66
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.61
+    Total Contrastive Train Loss: 6.46
+    Recon Train Loss: 0.79
+    Cycle Train Loss:       0.0088800670
+  Total Valid Loss:        3.82
+    Contrastive Valid Loss: 8.00
+    Contrastive Recon Valid Loss: 1.85
+    Total Contrastive Valid Loss: 9.86
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0089919796
+Learning Rate: 0.0001
+Epoch: 112, Alpha: 0.33
+  Total Train Loss:        2.64
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.61
+    Total Contrastive Train Loss: 6.46
+    Recon Train Loss: 0.79
+    Cycle Train Loss:       0.0089112860
+  Total Valid Loss:        3.78
+    Contrastive Valid Loss: 7.98
+    Contrastive Recon Valid Loss: 1.84
+    Total Contrastive Valid Loss: 9.83
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0090262466
+Learning Rate: 0.0001
+Epoch: 113, Alpha: 0.32
+  Total Train Loss:        2.62
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.60
+    Total Contrastive Train Loss: 6.45
+    Recon Train Loss: 0.79
+    Cycle Train Loss:       0.0089513459
+  Total Valid Loss:        3.75
+    Contrastive Valid Loss: 8.00
+    Contrastive Recon Valid Loss: 1.83
+    Total Contrastive Valid Loss: 9.83
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0090054574
+Learning Rate: 0.0001
+Epoch: 114, Alpha: 0.32
+  Total Train Loss:        2.60
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.60
+    Total Contrastive Train Loss: 6.45
+    Recon Train Loss: 0.79
+    Cycle Train Loss:       0.0089539291
+  Total Valid Loss:        3.73
+    Contrastive Valid Loss: 8.02
+    Contrastive Recon Valid Loss: 1.83
+    Total Contrastive Valid Loss: 9.85
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0090561764
+Learning Rate: 0.0001
+Epoch: 115, Alpha: 0.32
+  Total Train Loss:        2.58
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.60
+    Total Contrastive Train Loss: 6.45
+    Recon Train Loss: 0.78
+    Cycle Train Loss:       0.0089485683
+  Total Valid Loss:        3.69
+    Contrastive Valid Loss: 8.00
+    Contrastive Recon Valid Loss: 1.83
+    Total Contrastive Valid Loss: 9.83
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0089776157
+Learning Rate: 0.0001
+Epoch: 116, Alpha: 0.31
+  Total Train Loss:        2.56
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.59
+    Total Contrastive Train Loss: 6.45
+    Recon Train Loss: 0.78
+    Cycle Train Loss:       0.0089919603
+  Total Valid Loss:        3.68
+    Contrastive Valid Loss: 8.03
+    Contrastive Recon Valid Loss: 1.84
+    Total Contrastive Valid Loss: 9.88
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0091882808
+Learning Rate: 0.0001
+Epoch: 117, Alpha: 0.31
+  Total Train Loss:        2.54
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.59
+    Total Contrastive Train Loss: 6.44
+    Recon Train Loss: 0.78
+    Cycle Train Loss:       0.0090222425
+  Total Valid Loss:        3.64
+    Contrastive Valid Loss: 8.02
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.86
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0090151645
+Learning Rate: 0.0001
+Epoch: 118, Alpha: 0.31
+  Total Train Loss:        2.52
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.59
+    Total Contrastive Train Loss: 6.44
+    Recon Train Loss: 0.78
+    Cycle Train Loss:       0.0090052189
+  Total Valid Loss:        3.61
+    Contrastive Valid Loss: 8.03
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.85
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0091425855
+Learning Rate: 0.0001
+Epoch: 119, Alpha: 0.30
+  Total Train Loss:        2.50
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.59
+    Total Contrastive Train Loss: 6.44
+    Recon Train Loss: 0.78
+    Cycle Train Loss:       0.0090342774
+  Total Valid Loss:        3.58
+    Contrastive Valid Loss: 8.00
+    Contrastive Recon Valid Loss: 1.83
+    Total Contrastive Valid Loss: 9.84
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0090511007
+Learning Rate: 0.0001
+Epoch: 120, Alpha: 0.30
+  Total Train Loss:        2.48
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.58
+    Total Contrastive Train Loss: 6.43
+    Recon Train Loss: 0.78
+    Cycle Train Loss:       0.0090735119
+  Total Valid Loss:        3.55
+    Contrastive Valid Loss: 8.01
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.84
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0090636994
+Learning Rate: 0.0001
+Epoch: 121, Alpha: 0.30
+  Total Train Loss:        2.46
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.58
+    Total Contrastive Train Loss: 6.43
+    Recon Train Loss: 0.78
+    Cycle Train Loss:       0.0090626513
+  Total Valid Loss:        3.53
+    Contrastive Valid Loss: 8.01
+    Contrastive Recon Valid Loss: 1.83
+    Total Contrastive Valid Loss: 9.85
+    Recon Valid Loss: 0.85
+    Cycle Valid Loss:       0.0091067463
+Learning Rate: 0.0001
+Epoch: 122, Alpha: 0.30
+  Total Train Loss:        2.44
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.58
+    Total Contrastive Train Loss: 6.43
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0090497672
+  Total Valid Loss:        3.49
+    Contrastive Valid Loss: 7.99
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.82
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0089961945
+Learning Rate: 0.0001
+Epoch: 123, Alpha: 0.29
+  Total Train Loss:        2.42
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.58
+    Total Contrastive Train Loss: 6.42
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0090524055
+  Total Valid Loss:        3.48
+    Contrastive Valid Loss: 8.02
+    Contrastive Recon Valid Loss: 1.83
+    Total Contrastive Valid Loss: 9.86
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0091278856
+Learning Rate: 0.0001
+Epoch: 124, Alpha: 0.29
+  Total Train Loss:        2.41
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.57
+    Total Contrastive Train Loss: 6.42
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0090963386
+  Total Valid Loss:        3.45
+    Contrastive Valid Loss: 8.02
+    Contrastive Recon Valid Loss: 1.83
+    Total Contrastive Valid Loss: 9.86
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0090588003
+Learning Rate: 0.0001
+Epoch: 125, Alpha: 0.29
+  Total Train Loss:        2.39
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.57
+    Total Contrastive Train Loss: 6.42
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0090763966
+  Total Valid Loss:        3.42
+    Contrastive Valid Loss: 8.03
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.85
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0091375756
+Learning Rate: 0.0001
+Epoch: 126, Alpha: 0.28
+  Total Train Loss:        2.37
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.57
+    Total Contrastive Train Loss: 6.41
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0091317777
+  Total Valid Loss:        3.39
+    Contrastive Valid Loss: 8.04
+    Contrastive Recon Valid Loss: 1.81
+    Total Contrastive Valid Loss: 9.86
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0091633812
+Learning Rate: 0.0001
+Epoch: 127, Alpha: 0.28
+  Total Train Loss:        2.35
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.57
+    Total Contrastive Train Loss: 6.41
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0091216792
+  Total Valid Loss:        3.38
+    Contrastive Valid Loss: 8.06
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.89
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0091265028
+Learning Rate: 0.0001
+Epoch: 128, Alpha: 0.28
+  Total Train Loss:        2.34
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.56
+    Total Contrastive Train Loss: 6.41
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0091342815
+  Total Valid Loss:        3.35
+    Contrastive Valid Loss: 8.06
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.88
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0091183499
+Learning Rate: 0.0001
+Epoch: 129, Alpha: 0.28
+  Total Train Loss:        2.32
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.56
+    Total Contrastive Train Loss: 6.41
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0091803485
+  Total Valid Loss:        3.33
+    Contrastive Valid Loss: 8.06
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.89
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0091313262
+Learning Rate: 0.0001
+Epoch: 130, Alpha: 0.27
+  Total Train Loss:        2.30
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.56
+    Total Contrastive Train Loss: 6.40
+    Recon Train Loss: 0.77
+    Cycle Train Loss:       0.0091758227
+  Total Valid Loss:        3.30
+    Contrastive Valid Loss: 8.05
+    Contrastive Recon Valid Loss: 1.81
+    Total Contrastive Valid Loss: 9.87
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0092031161
+Learning Rate: 0.0001
+Epoch: 131, Alpha: 0.27
+  Total Train Loss:        2.28
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.56
+    Total Contrastive Train Loss: 6.40
+    Recon Train Loss: 0.76
+    Cycle Train Loss:       0.0091335489
+  Total Valid Loss:        3.28
+    Contrastive Valid Loss: 8.05
+    Contrastive Recon Valid Loss: 1.83
+    Total Contrastive Valid Loss: 9.89
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0090694385
+Learning Rate: 0.0001
+Epoch: 132, Alpha: 0.27
+  Total Train Loss:        2.27
+    Contrastive Train Loss: 4.84
+    Contrastive Recon Train Loss: 1.55
+    Total Contrastive Train Loss: 6.40
+    Recon Train Loss: 0.76
+    Cycle Train Loss:       0.0092029504
+  Total Valid Loss:        3.25
+    Contrastive Valid Loss: 8.08
+    Contrastive Recon Valid Loss: 1.81
+    Total Contrastive Valid Loss: 9.89
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0092134514
+Learning Rate: 0.0001
+Epoch: 133, Alpha: 0.26
+  Total Train Loss:        2.25
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.55
+    Total Contrastive Train Loss: 6.40
+    Recon Train Loss: 0.76
+    Cycle Train Loss:       0.0092115745
+  Total Valid Loss:        3.22
+    Contrastive Valid Loss: 8.06
+    Contrastive Recon Valid Loss: 1.81
+    Total Contrastive Valid Loss: 9.87
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0091183921
+Learning Rate: 0.0001
+Epoch: 134, Alpha: 0.26
+  Total Train Loss:        2.23
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.55
+    Total Contrastive Train Loss: 6.39
+    Recon Train Loss: 0.76
+    Cycle Train Loss:       0.0091817464
+  Total Valid Loss:        3.21
+    Contrastive Valid Loss: 8.06
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.89
+    Recon Valid Loss: 0.84
+    Cycle Valid Loss:       0.0091553020
+Learning Rate: 0.0001
+Epoch: 135, Alpha: 0.26
+  Total Train Loss:        2.22
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.55
+    Total Contrastive Train Loss: 6.39
+    Recon Train Loss: 0.76
+    Cycle Train Loss:       0.0092603621
+  Total Valid Loss:        3.18
+    Contrastive Valid Loss: 8.07
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.88
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0092334883
+Learning Rate: 0.0001
+Epoch: 136, Alpha: 0.26
+  Total Train Loss:        2.20
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.55
+    Total Contrastive Train Loss: 6.39
+    Recon Train Loss: 0.76
+    Cycle Train Loss:       0.0092429678
+  Total Valid Loss:        3.15
+    Contrastive Valid Loss: 8.08
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.89
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0091282416
+Learning Rate: 0.0001
+Epoch: 137, Alpha: 0.25
+  Total Train Loss:        2.19
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.54
+    Total Contrastive Train Loss: 6.39
+    Recon Train Loss: 0.76
+    Cycle Train Loss:       0.0092883319
+  Total Valid Loss:        3.13
+    Contrastive Valid Loss: 8.06
+    Contrastive Recon Valid Loss: 1.81
+    Total Contrastive Valid Loss: 9.88
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0091902382
+Learning Rate: 0.0001
+Epoch: 138, Alpha: 0.25
+  Total Train Loss:        2.17
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.54
+    Total Contrastive Train Loss: 6.38
+    Recon Train Loss: 0.76
+    Cycle Train Loss:       0.0093045401
+  Total Valid Loss:        3.11
+    Contrastive Valid Loss: 8.06
+    Contrastive Recon Valid Loss: 1.81
+    Total Contrastive Valid Loss: 9.87
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0092162393
+Learning Rate: 0.0001
+Epoch: 139, Alpha: 0.25
+  Total Train Loss:        2.16
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.54
+    Total Contrastive Train Loss: 6.38
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0092865419
+  Total Valid Loss:        3.08
+    Contrastive Valid Loss: 8.07
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.88
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0091949055
+Learning Rate: 0.0001
+Epoch: 140, Alpha: 0.25
+  Total Train Loss:        2.14
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.54
+    Total Contrastive Train Loss: 6.38
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0093305583
+  Total Valid Loss:        3.06
+    Contrastive Valid Loss: 8.09
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.90
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0092866090
+Learning Rate: 0.0001
+Epoch: 141, Alpha: 0.24
+  Total Train Loss:        2.13
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.54
+    Total Contrastive Train Loss: 6.38
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0093312135
+  Total Valid Loss:        3.03
+    Contrastive Valid Loss: 8.06
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.86
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0092093724
+Learning Rate: 0.0001
+Epoch: 142, Alpha: 0.24
+  Total Train Loss:        2.11
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.54
+    Total Contrastive Train Loss: 6.38
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0093006065
+  Total Valid Loss:        3.02
+    Contrastive Valid Loss: 8.07
+    Contrastive Recon Valid Loss: 1.82
+    Total Contrastive Valid Loss: 9.89
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0091705672
+Learning Rate: 0.0001
+Epoch: 143, Alpha: 0.24
+  Total Train Loss:        2.10
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.53
+    Total Contrastive Train Loss: 6.37
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0093506004
+  Total Valid Loss:        2.99
+    Contrastive Valid Loss: 8.08
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.88
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0092670720
+Learning Rate: 0.0001
+Epoch: 144, Alpha: 0.24
+  Total Train Loss:        2.08
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.53
+    Total Contrastive Train Loss: 6.37
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0093474787
+  Total Valid Loss:        2.98
+    Contrastive Valid Loss: 8.08
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.90
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0093371257
+Learning Rate: 0.0001
+Epoch: 145, Alpha: 0.23
+  Total Train Loss:        2.07
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.53
+    Total Contrastive Train Loss: 6.37
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0094203938
+  Total Valid Loss:        2.96
+    Contrastive Valid Loss: 8.10
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.91
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0092814192
+Learning Rate: 0.0001
+Epoch: 146, Alpha: 0.23
+  Total Train Loss:        2.05
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.53
+    Total Contrastive Train Loss: 6.37
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0094277654
+  Total Valid Loss:        2.95
+    Contrastive Valid Loss: 8.12
+    Contrastive Recon Valid Loss: 1.81
+    Total Contrastive Valid Loss: 9.93
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0094032576
+Learning Rate: 0.0001
+Epoch: 147, Alpha: 0.23
+  Total Train Loss:        2.04
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.53
+    Total Contrastive Train Loss: 6.36
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0094056375
+  Total Valid Loss:        2.91
+    Contrastive Valid Loss: 8.08
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.89
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0092833473
+Learning Rate: 0.0001
+Epoch: 148, Alpha: 0.23
+  Total Train Loss:        2.02
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.52
+    Total Contrastive Train Loss: 6.36
+    Recon Train Loss: 0.75
+    Cycle Train Loss:       0.0093918840
+  Total Valid Loss:        2.89
+    Contrastive Valid Loss: 8.10
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.91
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0093781064
+Learning Rate: 0.0001
+Epoch: 149, Alpha: 0.23
+  Total Train Loss:        2.01
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.52
+    Total Contrastive Train Loss: 6.36
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0094286221
+  Total Valid Loss:        2.87
+    Contrastive Valid Loss: 8.12
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.92
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0093882377
+Learning Rate: 0.0001
+Epoch: 150, Alpha: 0.22
+  Total Train Loss:        2.00
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.52
+    Total Contrastive Train Loss: 6.36
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0095185271
+  Total Valid Loss:        2.85
+    Contrastive Valid Loss: 8.09
+    Contrastive Recon Valid Loss: 1.80
+    Total Contrastive Valid Loss: 9.90
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0093119131
+Learning Rate: 0.0001
+Epoch: 151, Alpha: 0.22
+  Total Train Loss:        1.98
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.52
+    Total Contrastive Train Loss: 6.36
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0094961318
+  Total Valid Loss:        2.83
+    Contrastive Valid Loss: 8.11
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.91
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0093460240
+Learning Rate: 0.0001
+Epoch: 152, Alpha: 0.22
+  Total Train Loss:        1.97
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.52
+    Total Contrastive Train Loss: 6.35
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0094960202
+  Total Valid Loss:        2.81
+    Contrastive Valid Loss: 8.11
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.92
+    Recon Valid Loss: 0.83
+    Cycle Valid Loss:       0.0094949444
+Learning Rate: 0.0001
+Epoch: 153, Alpha: 0.22
+  Total Train Loss:        1.96
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.52
+    Total Contrastive Train Loss: 6.35
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0094950364
+  Total Valid Loss:        2.79
+    Contrastive Valid Loss: 8.14
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.94
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0095197092
+Learning Rate: 0.0001
+Epoch: 154, Alpha: 0.21
+  Total Train Loss:        1.94
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.51
+    Total Contrastive Train Loss: 6.35
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0095245470
+  Total Valid Loss:        2.77
+    Contrastive Valid Loss: 8.12
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.92
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0093501203
+Learning Rate: 0.0001
+Epoch: 155, Alpha: 0.21
+  Total Train Loss:        1.93
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.51
+    Total Contrastive Train Loss: 6.35
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0095530946
+  Total Valid Loss:        2.75
+    Contrastive Valid Loss: 8.11
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.91
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0094006149
+Learning Rate: 0.0001
+Epoch: 156, Alpha: 0.21
+  Total Train Loss:        1.92
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.51
+    Total Contrastive Train Loss: 6.35
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0095003464
+  Total Valid Loss:        2.72
+    Contrastive Valid Loss: 8.11
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.90
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0093455139
+Learning Rate: 0.0001
+Epoch: 157, Alpha: 0.21
+  Total Train Loss:        1.91
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.51
+    Total Contrastive Train Loss: 6.35
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0095845475
+  Total Valid Loss:        2.72
+    Contrastive Valid Loss: 8.15
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.94
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0095343521
+Learning Rate: 0.0001
+Epoch: 158, Alpha: 0.21
+  Total Train Loss:        1.89
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.51
+    Total Contrastive Train Loss: 6.35
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0096205558
+  Total Valid Loss:        2.69
+    Contrastive Valid Loss: 8.10
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.90
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0093811601
+Learning Rate: 0.0001
+Epoch: 159, Alpha: 0.20
+  Total Train Loss:        1.88
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.51
+    Total Contrastive Train Loss: 6.34
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0096341389
+  Total Valid Loss:        2.68
+    Contrastive Valid Loss: 8.14
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.93
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0094747540
+Learning Rate: 0.0001
+Epoch: 160, Alpha: 0.20
+  Total Train Loss:        1.87
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.51
+    Total Contrastive Train Loss: 6.34
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0096298127
+  Total Valid Loss:        2.66
+    Contrastive Valid Loss: 8.14
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.93
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0094008803
+Learning Rate: 0.0001
+Epoch: 161, Alpha: 0.20
+  Total Train Loss:        1.86
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.50
+    Total Contrastive Train Loss: 6.34
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0096573719
+  Total Valid Loss:        2.63
+    Contrastive Valid Loss: 8.11
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.90
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0093552272
+Learning Rate: 0.0001
+Epoch: 162, Alpha: 0.20
+  Total Train Loss:        1.84
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.50
+    Total Contrastive Train Loss: 6.34
+    Recon Train Loss: 0.74
+    Cycle Train Loss:       0.0096883582
+  Total Valid Loss:        2.62
+    Contrastive Valid Loss: 8.15
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.94
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0096051581
+Learning Rate: 0.0001
+Epoch: 163, Alpha: 0.20
+  Total Train Loss:        1.83
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.50
+    Total Contrastive Train Loss: 6.34
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0096864634
+  Total Valid Loss:        2.60
+    Contrastive Valid Loss: 8.13
+    Contrastive Recon Valid Loss: 1.79
+    Total Contrastive Valid Loss: 9.92
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0095626436
+Learning Rate: 0.0001
+Epoch: 164, Alpha: 0.19
+  Total Train Loss:        1.82
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.50
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0096887707
+  Total Valid Loss:        2.58
+    Contrastive Valid Loss: 8.15
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.94
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0096126323
+Learning Rate: 0.0001
+Epoch: 165, Alpha: 0.19
+  Total Train Loss:        1.81
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.50
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0097141452
+  Total Valid Loss:        2.57
+    Contrastive Valid Loss: 8.14
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.93
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0095813769
+Learning Rate: 0.0001
+Epoch: 166, Alpha: 0.19
+  Total Train Loss:        1.80
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.50
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0097211506
+  Total Valid Loss:        2.55
+    Contrastive Valid Loss: 8.17
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.95
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0095545906
+Learning Rate: 0.0001
+Epoch: 167, Alpha: 0.19
+  Total Train Loss:        1.79
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.50
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0097689876
+  Total Valid Loss:        2.53
+    Contrastive Valid Loss: 8.15
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.93
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0095739544
+Learning Rate: 0.0001
+Epoch: 168, Alpha: 0.19
+  Total Train Loss:        1.77
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.50
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0097394415
+  Total Valid Loss:        2.52
+    Contrastive Valid Loss: 8.18
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.96
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0096533337
+Learning Rate: 0.0001
+Epoch: 169, Alpha: 0.18
+  Total Train Loss:        1.76
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.49
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0098084404
+  Total Valid Loss:        2.49
+    Contrastive Valid Loss: 8.16
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.94
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0095961393
+Learning Rate: 0.0001
+Epoch: 170, Alpha: 0.18
+  Total Train Loss:        1.75
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.49
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0097707041
+  Total Valid Loss:        2.48
+    Contrastive Valid Loss: 8.16
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.95
+    Recon Valid Loss: 0.82
+    Cycle Valid Loss:       0.0095979132
+Learning Rate: 0.0001
+Epoch: 171, Alpha: 0.18
+  Total Train Loss:        1.74
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.49
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0098055665
+  Total Valid Loss:        2.46
+    Contrastive Valid Loss: 8.15
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.93
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0096052726
+Learning Rate: 0.0001
+Epoch: 172, Alpha: 0.18
+  Total Train Loss:        1.73
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.49
+    Total Contrastive Train Loss: 6.33
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0098249664
+  Total Valid Loss:        2.45
+    Contrastive Valid Loss: 8.16
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.95
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0096038109
+Learning Rate: 0.0001
+Epoch: 173, Alpha: 0.18
+  Total Train Loss:        1.72
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.49
+    Total Contrastive Train Loss: 6.32
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0098174402
+  Total Valid Loss:        2.43
+    Contrastive Valid Loss: 8.16
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.95
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0096745720
+Learning Rate: 0.0001
+Epoch: 174, Alpha: 0.18
+  Total Train Loss:        1.71
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.49
+    Total Contrastive Train Loss: 6.32
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0098884225
+  Total Valid Loss:        2.41
+    Contrastive Valid Loss: 8.18
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.95
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0095683184
+Learning Rate: 0.0001
+Epoch: 175, Alpha: 0.17
+  Total Train Loss:        1.70
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.49
+    Total Contrastive Train Loss: 6.32
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0098402726
+  Total Valid Loss:        2.40
+    Contrastive Valid Loss: 8.17
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.96
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0096575906
+Learning Rate: 0.0001
+Epoch: 176, Alpha: 0.17
+  Total Train Loss:        1.69
+    Contrastive Train Loss: 4.83
+    Contrastive Recon Train Loss: 1.49
+    Total Contrastive Train Loss: 6.32
+    Recon Train Loss: 0.73
+    Cycle Train Loss:       0.0099484179
+  Total Valid Loss:        2.38
+    Contrastive Valid Loss: 8.20
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0096284122
+Learning Rate: 0.0001
+Epoch: 177, Alpha: 0.17
+  Total Train Loss:        1.68
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.32
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0099057050
+  Total Valid Loss:        2.36
+    Contrastive Valid Loss: 8.18
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.96
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0096986142
+Learning Rate: 0.0001
+Epoch: 178, Alpha: 0.17
+  Total Train Loss:        1.67
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0099314105
+  Total Valid Loss:        2.35
+    Contrastive Valid Loss: 8.19
+    Contrastive Recon Valid Loss: 1.78
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0098310347
+Learning Rate: 0.0001
+Epoch: 179, Alpha: 0.17
+  Total Train Loss:        1.66
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.32
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0099517776
+  Total Valid Loss:        2.34
+    Contrastive Valid Loss: 8.19
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.98
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0097438205
+Learning Rate: 0.0001
+Epoch: 180, Alpha: 0.17
+  Total Train Loss:        1.65
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0100185613
+  Total Valid Loss:        2.32
+    Contrastive Valid Loss: 8.19
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.96
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0097596784
+Learning Rate: 0.0001
+Epoch: 181, Alpha: 0.16
+  Total Train Loss:        1.64
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0100274159
+  Total Valid Loss:        2.31
+    Contrastive Valid Loss: 8.20
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.81
+    Cycle Valid Loss:       0.0099156798
+Learning Rate: 0.0001
+Epoch: 182, Alpha: 0.16
+  Total Train Loss:        1.63
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0100609105
+  Total Valid Loss:        2.28
+    Contrastive Valid Loss: 8.18
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.95
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0098587750
+Learning Rate: 0.0001
+Epoch: 183, Alpha: 0.16
+  Total Train Loss:        1.62
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0100588481
+  Total Valid Loss:        2.27
+    Contrastive Valid Loss: 8.21
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.98
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0099935431
+Learning Rate: 0.0001
+Epoch: 184, Alpha: 0.16
+  Total Train Loss:        1.61
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0100411743
+  Total Valid Loss:        2.25
+    Contrastive Valid Loss: 8.18
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.95
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0098328414
+Learning Rate: 0.0001
+Epoch: 185, Alpha: 0.16
+  Total Train Loss:        1.60
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.48
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0101232420
+  Total Valid Loss:        2.24
+    Contrastive Valid Loss: 8.19
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.96
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0098700263
+Learning Rate: 0.0001
+Epoch: 186, Alpha: 0.16
+  Total Train Loss:        1.59
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0100762763
+  Total Valid Loss:        2.23
+    Contrastive Valid Loss: 8.19
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 9.96
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0098763148
+Learning Rate: 0.0001
+Epoch: 187, Alpha: 0.15
+  Total Train Loss:        1.58
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.31
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0101198866
+  Total Valid Loss:        2.22
+    Contrastive Valid Loss: 8.22
+    Contrastive Recon Valid Loss: 1.77
+    Total Contrastive Valid Loss: 10.00
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0099713048
+Learning Rate: 0.0001
+Epoch: 188, Alpha: 0.15
+  Total Train Loss:        1.57
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0101425152
+  Total Valid Loss:        2.20
+    Contrastive Valid Loss: 8.22
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.99
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0100762559
+Learning Rate: 0.0001
+Epoch: 189, Alpha: 0.15
+  Total Train Loss:        1.56
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0101429903
+  Total Valid Loss:        2.19
+    Contrastive Valid Loss: 8.21
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.98
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0100005930
+Learning Rate: 0.0001
+Epoch: 190, Alpha: 0.15
+  Total Train Loss:        1.55
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0102044321
+  Total Valid Loss:        2.17
+    Contrastive Valid Loss: 8.21
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0100187195
+Learning Rate: 0.0001
+Epoch: 191, Alpha: 0.15
+  Total Train Loss:        1.54
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0101863578
+  Total Valid Loss:        2.15
+    Contrastive Valid Loss: 8.21
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 9.98
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0100316952
+Learning Rate: 0.0001
+Epoch: 192, Alpha: 0.15
+  Total Train Loss:        1.53
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0102299669
+  Total Valid Loss:        2.15
+    Contrastive Valid Loss: 8.24
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 10.01
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0101182450
+Learning Rate: 0.0001
+Epoch: 193, Alpha: 0.15
+  Total Train Loss:        1.53
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0102602299
+  Total Valid Loss:        2.12
+    Contrastive Valid Loss: 8.20
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 9.96
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0100270671
+Learning Rate: 0.0001
+Epoch: 194, Alpha: 0.14
+  Total Train Loss:        1.52
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.47
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.72
+    Cycle Train Loss:       0.0102467742
+  Total Valid Loss:        2.12
+    Contrastive Valid Loss: 8.22
+    Contrastive Recon Valid Loss: 1.76
+    Total Contrastive Valid Loss: 9.99
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0101111026
+Learning Rate: 0.0001
+Epoch: 195, Alpha: 0.14
+  Total Train Loss:        1.51
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0102589456
+  Total Valid Loss:        2.10
+    Contrastive Valid Loss: 8.21
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 9.98
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0101476098
+Learning Rate: 0.0001
+Epoch: 196, Alpha: 0.14
+  Total Train Loss:        1.50
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0103037727
+  Total Valid Loss:        2.10
+    Contrastive Valid Loss: 8.24
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 10.00
+    Recon Valid Loss: 0.80
+    Cycle Valid Loss:       0.0101093684
+Learning Rate: 0.0001
+Epoch: 197, Alpha: 0.14
+  Total Train Loss:        1.49
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.30
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0103125220
+  Total Valid Loss:        2.08
+    Contrastive Valid Loss: 8.23
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 10.00
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0101895672
+Learning Rate: 0.0001
+Epoch: 198, Alpha: 0.14
+  Total Train Loss:        1.48
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0103690726
+  Total Valid Loss:        2.07
+    Contrastive Valid Loss: 8.24
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 10.01
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0100815622
+Learning Rate: 0.0001
+Epoch: 199, Alpha: 0.14
+  Total Train Loss:        1.48
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0103430353
+  Total Valid Loss:        2.05
+    Contrastive Valid Loss: 8.24
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 9.99
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0101441063
+Learning Rate: 0.0001
+Epoch: 200, Alpha: 0.14
+  Total Train Loss:        1.47
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0104044290
+  Total Valid Loss:        2.03
+    Contrastive Valid Loss: 8.22
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0101452229
+Learning Rate: 0.0001
+Epoch: 201, Alpha: 0.13
+  Total Train Loss:        1.46
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0104253430
+  Total Valid Loss:        2.02
+    Contrastive Valid Loss: 8.22
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0102760891
+Learning Rate: 0.0001
+Epoch: 202, Alpha: 0.13
+  Total Train Loss:        1.45
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0104424831
+  Total Valid Loss:        2.01
+    Contrastive Valid Loss: 8.23
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 9.99
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0103125706
+Learning Rate: 0.0001
+Epoch: 203, Alpha: 0.13
+  Total Train Loss:        1.44
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0104419857
+  Total Valid Loss:        2.00
+    Contrastive Valid Loss: 8.23
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 9.99
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0102807304
+Learning Rate: 0.0001
+Epoch: 204, Alpha: 0.13
+  Total Train Loss:        1.43
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0104761325
+  Total Valid Loss:        1.98
+    Contrastive Valid Loss: 8.22
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 9.98
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0103288492
+Learning Rate: 0.0001
+Epoch: 205, Alpha: 0.13
+  Total Train Loss:        1.43
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0104935521
+  Total Valid Loss:        1.97
+    Contrastive Valid Loss: 8.22
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0102520947
+Learning Rate: 0.0001
+Epoch: 206, Alpha: 0.13
+  Total Train Loss:        1.42
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.46
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0105234448
+  Total Valid Loss:        1.96
+    Contrastive Valid Loss: 8.22
+    Contrastive Recon Valid Loss: 1.75
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0103233611
+Learning Rate: 0.0001
+Epoch: 207, Alpha: 0.13
+  Total Train Loss:        1.41
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0105167437
+  Total Valid Loss:        1.94
+    Contrastive Valid Loss: 8.24
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 9.98
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0103048880
+Learning Rate: 0.0001
+Epoch: 208, Alpha: 0.12
+  Total Train Loss:        1.41
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.29
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0105994240
+  Total Valid Loss:        1.94
+    Contrastive Valid Loss: 8.25
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.00
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0105063885
+Learning Rate: 0.0001
+Epoch: 209, Alpha: 0.12
+  Total Train Loss:        1.40
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0105890150
+  Total Valid Loss:        1.93
+    Contrastive Valid Loss: 8.26
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.01
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0104807418
+Learning Rate: 0.0001
+Epoch: 210, Alpha: 0.12
+  Total Train Loss:        1.39
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0105372200
+  Total Valid Loss:        1.91
+    Contrastive Valid Loss: 8.25
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.01
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0103716922
+Learning Rate: 0.0001
+Epoch: 211, Alpha: 0.12
+  Total Train Loss:        1.38
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0106571905
+  Total Valid Loss:        1.90
+    Contrastive Valid Loss: 8.27
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0104157875
+Learning Rate: 0.0001
+Epoch: 212, Alpha: 0.12
+  Total Train Loss:        1.38
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0106291203
+  Total Valid Loss:        1.88
+    Contrastive Valid Loss: 8.24
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 9.97
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0104665803
+Learning Rate: 0.0001
+Epoch: 213, Alpha: 0.12
+  Total Train Loss:        1.37
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0106590565
+  Total Valid Loss:        1.88
+    Contrastive Valid Loss: 8.25
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.00
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0105358963
+Learning Rate: 0.0001
+Epoch: 214, Alpha: 0.12
+  Total Train Loss:        1.36
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.71
+    Cycle Train Loss:       0.0107007316
+  Total Valid Loss:        1.87
+    Contrastive Valid Loss: 8.25
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 9.99
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0104510184
+Learning Rate: 0.0001
+Epoch: 215, Alpha: 0.12
+  Total Train Loss:        1.35
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0106864101
+  Total Valid Loss:        1.86
+    Contrastive Valid Loss: 8.27
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0105392888
+Learning Rate: 0.0001
+Epoch: 216, Alpha: 0.12
+  Total Train Loss:        1.35
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0107336545
+  Total Valid Loss:        1.85
+    Contrastive Valid Loss: 8.27
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.01
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0104452634
+Learning Rate: 0.0001
+Epoch: 217, Alpha: 0.11
+  Total Train Loss:        1.34
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0107525126
+  Total Valid Loss:        1.84
+    Contrastive Valid Loss: 8.25
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.00
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0104161064
+Learning Rate: 0.0001
+Epoch: 218, Alpha: 0.11
+  Total Train Loss:        1.33
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0107947482
+  Total Valid Loss:        1.83
+    Contrastive Valid Loss: 8.27
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0106080265
+Learning Rate: 0.0001
+Epoch: 219, Alpha: 0.11
+  Total Train Loss:        1.33
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0107942315
+  Total Valid Loss:        1.82
+    Contrastive Valid Loss: 8.29
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0105954473
+Learning Rate: 0.0001
+Epoch: 220, Alpha: 0.11
+  Total Train Loss:        1.32
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.45
+    Total Contrastive Train Loss: 6.28
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0108493794
+  Total Valid Loss:        1.80
+    Contrastive Valid Loss: 8.27
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0106669218
+Learning Rate: 0.0001
+Epoch: 221, Alpha: 0.11
+  Total Train Loss:        1.31
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0108662076
+  Total Valid Loss:        1.79
+    Contrastive Valid Loss: 8.28
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0106847466
+Learning Rate: 0.0001
+Epoch: 222, Alpha: 0.11
+  Total Train Loss:        1.31
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0108291123
+  Total Valid Loss:        1.79
+    Contrastive Valid Loss: 8.28
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0105706539
+Learning Rate: 0.0001
+Epoch: 223, Alpha: 0.11
+  Total Train Loss:        1.30
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0107972700
+  Total Valid Loss:        1.78
+    Contrastive Valid Loss: 8.29
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.04
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0105901395
+Learning Rate: 0.0001
+Epoch: 224, Alpha: 0.11
+  Total Train Loss:        1.29
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0109315863
+  Total Valid Loss:        1.76
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0106260251
+Learning Rate: 0.0001
+Epoch: 225, Alpha: 0.11
+  Total Train Loss:        1.29
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0108959070
+  Total Valid Loss:        1.76
+    Contrastive Valid Loss: 8.29
+    Contrastive Recon Valid Loss: 1.74
+    Total Contrastive Valid Loss: 10.04
+    Recon Valid Loss: 0.79
+    Cycle Valid Loss:       0.0106618762
+Learning Rate: 0.0001
+Epoch: 226, Alpha: 0.10
+  Total Train Loss:        1.28
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0109699560
+  Total Valid Loss:        1.74
+    Contrastive Valid Loss: 8.26
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.01
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0107021442
+Learning Rate: 0.0001
+Epoch: 227, Alpha: 0.10
+  Total Train Loss:        1.28
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0110017549
+  Total Valid Loss:        1.73
+    Contrastive Valid Loss: 8.29
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0107665473
+Learning Rate: 0.0001
+Epoch: 228, Alpha: 0.10
+  Total Train Loss:        1.27
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0109900859
+  Total Valid Loss:        1.72
+    Contrastive Valid Loss: 8.27
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.00
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0106051034
+Learning Rate: 0.0001
+Epoch: 229, Alpha: 0.10
+  Total Train Loss:        1.26
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0110185632
+  Total Valid Loss:        1.72
+    Contrastive Valid Loss: 8.29
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0106913811
+Learning Rate: 0.0001
+Epoch: 230, Alpha: 0.10
+  Total Train Loss:        1.26
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0109927554
+  Total Valid Loss:        1.71
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.04
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0108555502
+Learning Rate: 0.0001
+Epoch: 231, Alpha: 0.10
+  Total Train Loss:        1.25
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0110833993
+  Total Valid Loss:        1.70
+    Contrastive Valid Loss: 8.28
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0108660641
+Learning Rate: 0.0001
+Epoch: 232, Alpha: 0.10
+  Total Train Loss:        1.25
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0111097246
+  Total Valid Loss:        1.69
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.73
+    Total Contrastive Valid Loss: 10.05
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0108931332
+Learning Rate: 0.0001
+Epoch: 233, Alpha: 0.10
+  Total Train Loss:        1.24
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0111278355
+  Total Valid Loss:        1.67
+    Contrastive Valid Loss: 8.29
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0108346681
+Learning Rate: 0.0001
+Epoch: 234, Alpha: 0.10
+  Total Train Loss:        1.23
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.27
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0111422494
+  Total Valid Loss:        1.66
+    Contrastive Valid Loss: 8.29
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0108868389
+Learning Rate: 0.0001
+Epoch: 235, Alpha: 0.10
+  Total Train Loss:        1.23
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0111625824
+  Total Valid Loss:        1.65
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.71
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0108615943
+Learning Rate: 0.0001
+Epoch: 236, Alpha: 0.09
+  Total Train Loss:        1.22
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.44
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0111777923
+  Total Valid Loss:        1.65
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0110010256
+Learning Rate: 0.0001
+Epoch: 237, Alpha: 0.09
+  Total Train Loss:        1.22
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.70
+    Cycle Train Loss:       0.0112272522
+  Total Valid Loss:        1.64
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.04
+    Recon Valid Loss: 0.78
+    Cycle Valid Loss:       0.0108333348
+Learning Rate: 0.0001
+Epoch: 238, Alpha: 0.09
+  Total Train Loss:        1.21
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0112032476
+  Total Valid Loss:        1.62
+    Contrastive Valid Loss: 8.31
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0109772571
+Learning Rate: 0.0001
+Epoch: 239, Alpha: 0.09
+  Total Train Loss:        1.20
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0112521208
+  Total Valid Loss:        1.62
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.71
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0109208083
+Learning Rate: 0.0001
+Epoch: 240, Alpha: 0.09
+  Total Train Loss:        1.20
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0112785342
+  Total Valid Loss:        1.61
+    Contrastive Valid Loss: 8.33
+    Contrastive Recon Valid Loss: 1.71
+    Total Contrastive Valid Loss: 10.06
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0111150343
+Learning Rate: 0.0001
+Epoch: 241, Alpha: 0.09
+  Total Train Loss:        1.19
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0113725979
+  Total Valid Loss:        1.60
+    Contrastive Valid Loss: 8.29
+    Contrastive Recon Valid Loss: 1.71
+    Total Contrastive Valid Loss: 10.01
+    Recon Valid Loss: 0.76
+    Cycle Valid Loss:       0.0110657936
+Learning Rate: 0.0001
+Epoch: 242, Alpha: 0.09
+  Total Train Loss:        1.19
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0113396197
+  Total Valid Loss:        1.60
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0110846276
+Learning Rate: 0.0001
+Epoch: 243, Alpha: 0.09
+  Total Train Loss:        1.18
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0113393358
+  Total Valid Loss:        1.59
+    Contrastive Valid Loss: 8.32
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.05
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0111019648
+Learning Rate: 0.0001
+Epoch: 244, Alpha: 0.09
+  Total Train Loss:        1.18
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0113533006
+  Total Valid Loss:        1.58
+    Contrastive Valid Loss: 8.31
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.04
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0111341743
+Learning Rate: 0.0001
+Epoch: 245, Alpha: 0.09
+  Total Train Loss:        1.17
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0114705132
+  Total Valid Loss:        1.57
+    Contrastive Valid Loss: 8.34
+    Contrastive Recon Valid Loss: 1.72
+    Total Contrastive Valid Loss: 10.07
+    Recon Valid Loss: 0.77
+    Cycle Valid Loss:       0.0111048657
+Learning Rate: 0.0001
+Epoch: 246, Alpha: 0.09
+  Total Train Loss:        1.17
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0114451003
+  Total Valid Loss:        1.56
+    Contrastive Valid Loss: 8.32
+    Contrastive Recon Valid Loss: 1.71
+    Total Contrastive Valid Loss: 10.04
+    Recon Valid Loss: 0.76
+    Cycle Valid Loss:       0.0111633151
+Learning Rate: 0.0001
+Epoch: 247, Alpha: 0.08
+  Total Train Loss:        1.16
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0114569101
+  Total Valid Loss:        1.55
+    Contrastive Valid Loss: 8.31
+    Contrastive Recon Valid Loss: 1.71
+    Total Contrastive Valid Loss: 10.04
+    Recon Valid Loss: 0.76
+    Cycle Valid Loss:       0.0111876819
+Learning Rate: 0.0001
+Epoch: 248, Alpha: 0.08
+  Total Train Loss:        1.16
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0115220335
+  Total Valid Loss:        1.54
+    Contrastive Valid Loss: 8.31
+    Contrastive Recon Valid Loss: 1.71
+    Total Contrastive Valid Loss: 10.03
+    Recon Valid Loss: 0.76
+    Cycle Valid Loss:       0.0111096150
+Learning Rate: 0.0001
+Epoch: 249, Alpha: 0.08
+  Total Train Loss:        1.15
+    Contrastive Train Loss: 4.82
+    Contrastive Recon Train Loss: 1.43
+    Total Contrastive Train Loss: 6.26
+    Recon Train Loss: 0.69
+    Cycle Train Loss:       0.0114936111
+  Total Valid Loss:        1.53
+    Contrastive Valid Loss: 8.30
+    Contrastive Recon Valid Loss: 1.71
+    Total Contrastive Valid Loss: 10.02
+    Recon Valid Loss: 0.76
+    Cycle Valid Loss:       0.0112349326
+Learning Rate: 0.0001
