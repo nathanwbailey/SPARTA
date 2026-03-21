@@ -1,6 +1,6 @@
-# 'SPARse-data augmented conTRAstive spatiotemporal embeddings’ (SPARTA)
+# Contrastive Learning Boosts Deterministic and Generative Models for Weather Data
 
-This repository contains code and experiments for the paper titled: 'SPARse-data augmented conTRAstive spatiotemporal embeddings’ (SPARTA)
+This repository contains code and experiments for the paper titled: Contrastive Learning Boosts Deterministic and Generative Models for Weather Data
 
 ## Repository Structure
 
