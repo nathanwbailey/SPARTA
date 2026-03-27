@@ -2,6 +2,8 @@
 
 This repository contains code and experiments for the paper titled: Contrastive Learning Boosts Deterministic and Generative Models for Weather Data
 
+http://arxiv.org/abs/2603.24744
+
 ## Repository Structure
 
 ```
