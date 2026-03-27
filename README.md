@@ -95,4 +95,16 @@ Each model has several notebooks that provide results in the paper:
 - visual_window_next_t.ipynb - **Plots trajectories of context windows with the next step**
 
 ---
-If you have any questions, please don't hesitate to contact me.
+If you have any questions, please don't hesitate to contact me. If you use my work, please use the following citation:
+
+```
+@misc{bailey2026contrastivelearningboostsdeterministic,
+      title={Contrastive Learning Boosts Deterministic and Generative Models for Weather Data}, 
+      author={Nathan Bailey},
+      year={2026},
+      eprint={2603.24744},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2603.24744}, 
+}
+```
